@@ -1,0 +1,2 @@
+playwright>=1.40
+geopy>=2.4

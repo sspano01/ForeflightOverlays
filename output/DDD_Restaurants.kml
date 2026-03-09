@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Diners, Drive-Ins and Dives</name>
+    <description>Restaurant locations from Diners, Drive-Ins and Dives – scraped from foodnetwork.com</description>
+    <Style id="restaurant-pin">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Graze</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1888 Eastland Ave, Nashville 37206
+(615) 686-1060
+Graze is a family-owned, locally-sourced vegan restuarant.</description>
+      <Point>
+        <coordinates>-86.7355654,36.1824279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Feisty Pint</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>359 Colorado Ave, Grand Junction 81501
+(970) 644-5555
+The Feisty Pint has traditional features of a pub: 26 beers on tap; mounted televisions; and bar fare like tacos,…</description>
+      <Point>
+        <coordinates>-108.5668515,39.0662369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santo Taco</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>910 900 W, Salt Lake City 84116
+(801) 893-4000
+Owners Claudia and Alfonso gained hands-on culinary experience working in restaurants and professional kitchens.</description>
+      <Point>
+        <coordinates>-111.9161827,40.789012,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fattoush Cafe</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1716 Charlotte Avenue, Nashville, TN 37203
+(615) 321-1667
+Fattoush's halal fare is made with olive oil, grains, vegetables and meats found in the Mediterranean region.</description>
+      <Point>
+        <coordinates>-86.7984489,36.1587815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dump City Dumplings</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>384 SW Upper Terrace Dr., Bend, OR 97703
+(541) 323-6243
+You can visit Dump City's restaurant or food cart to try one of their dumpling varieties, including Four Cheese Pizza,…</description>
+      <Point>
+        <coordinates>-121.3109771,44.0464302,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicky's Coal Fired</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>5026 Centennial Blvd., Nashville 37209
+(615) 678-4289
+Nicky's uses locally sourced ingredients and a coal fired oven to give their Italian cuisine a fresh and unique taste.</description>
+      <Point>
+        <coordinates>-86.8487954,36.1622741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riddim N Spice</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>2116 Meharry Blvd., Nashville, TN 37208
+(615) 953-7121
+Inspired by their love for Caribbean food, Jamaican brothers Kamal Kalokoh and Rashean Conaway created Riddim N Spice for those…</description>
+      <Point>
+        <coordinates>-86.8096131,36.1677747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arempa's</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>350 South State St., Salt Lake City, UT 84111
+(385) 301-8905
+Arepas, empanadas, cachapa and pabellon are some of the Venezuelan fare you'll find at Arempa's, with some vegan options.</description>
+      <Point>
+        <coordinates>-111.888534,40.7615454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockin' Dave's Bagel Bistro</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>661 NE Greenwood Ave., Bend 97701
+(541) 318-8177
+David Flier, a lover of food and a lover of music, combined his loves to create Rockin' Dave's Bagel Bistro…</description>
+      <Point>
+        <coordinates>-121.2961461,44.0597243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Pit Room</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1201 Richmond Ave., Houston, TX 77006
+(281) 888.1929
+Michael Sambrooks and Bramwell Tripp put their shared passion for delicious food and years of culinary experience together to create…</description>
+      <Point>
+        <coordinates>-95.3942038,29.7341915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soy Bistro</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>5008 Maryland Way, Brentwood, TN 37027
+(615) 371-1933
+A family-owned and operated restaurant that serves Korean cuisine; their house favorites are Bibimbap, Gochujang Chicken and Spicy Pork Bulgogi.</description>
+      <Point>
+        <coordinates>-86.7889883,36.0335446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Once Upon A Thyme</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1090 NW State Ave., Chehalis, Washington 98532
+(360) 740-8944
+This quaint and cute restaurant serves lunch, with vegetarian and vegan options, in a friendly space that is also home…</description>
+      <Point>
+        <coordinates>-122.973605,46.6709825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mackinaw's Restaurant</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>545 N Market Blvd #1, Chehalis 98532
+(360) 740-8000
+Mackinaw's eclectic menu features dishes made from farm-to-table ingredients.</description>
+      <Point>
+        <coordinates>-122.9707355,46.6656174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Toasted Coconut</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1617 Richmond Ave., Houston, TX 77006
+(713) 485-4775
+Inspired by island cuisine, Martin and Sara Stayer created The Toasted Coconut for a stay-cation culinary experience.</description>
+      <Point>
+        <coordinates>-95.4002757,29.7341016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zydeco Kitchen &amp; Cocktails</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>919 Bond St., Bend, OR 97701
+(541) 312-2899
+Chef Steve Helt serves up familiar Northwestern dishes made with a Southern twist and cocktails.</description>
+      <Point>
+        <coordinates>-121.3131916,44.0586688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NW Sausage and Deli</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>5945 Prather Rd SW, Centralia, WA 98531
+(360) 736-7760
+NW Sausage and Deli is home to more than 20 original recipes for smoked meats.</description>
+      <Point>
+        <coordinates>-123.0074265,46.7715172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weights + Measures</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>2808 Caroline St., Houston, TX 77004
+(713) 654-1970
+Housed in a repurposed warehouse and the brainchild of four partners: a developer, a chef, a baker and a bartender;…</description>
+      <Point>
+        <coordinates>-95.3730509,29.7424283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Traveler's Table</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>520 Westheimer Rd, Houston 77006
+(832) 409-5785
+Traveler's Table believes that food connects people and creates a point of connectivity, and as such, they are inspired by…</description>
+      <Point>
+        <coordinates>-95.3876462,29.7446117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Butcher Shop Beer Garden &amp; Grill</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>209 6th Street, West Palm Beach 33401
+(561) 812-2336
+Igor and Fred Niznik, a father-son duo, took on the creative challenge of opening a restaurant and combined their passion…</description>
+      <Point>
+        <coordinates>-80.0511748,26.7190881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cafe Pesto</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>308 Kamehameha Ave #101, Hilo 96720
+(808) 969-6640
+Cafe Pesto has it all - including seafood, breakfast and brunch, dessert and a selection of beverages.</description>
+      <Point>
+        <coordinates>-155.085065,19.7237393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Maui Fish Company</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1794 South Kihei Rd., Kihei 96753
+(808) 419.8980
+South Maui Fish Company believes in a high quality experience by upholding their principle of sustainability.</description>
+      <Point>
+        <coordinates>-156.453493,20.7357585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castaway Waterfront Restaurant &amp; Sushi Bar</name>
+      <styleUrl>#restaurant-pin</styleUrl>
+      <description>1406 Ocean View Ave., Marathon 33050
+(305) 743-6247
+Castaway Waterfront proudly serves fresh seafood, as well as feature sushi, steak and beer on the menu.</description>
+      <Point>
+        <coordinates>-81.1097066,24.7042754,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
