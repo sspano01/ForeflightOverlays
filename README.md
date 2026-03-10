@@ -1,8 +1,19 @@
 # ForeflightOverlays
 
-A Python tool that scrapes all **Diners, Drive-Ins and Dives** restaurant locations from the Food Network website, geocodes their addresses, and exports them as a **KML overlay** ready to import into [ForeFlight](https://foreflight.com/) — the popular aviation app for iPad.
+A Python tool that scrapes all **Diners, Drive-Ins and Dives** restaurant locations from the [Food Network DDD A–Z listing](https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives/a-z), geocodes their addresses, and exports them as a **KML overlay** ready to import into [ForeFlight](https://foreflight.com/) — the popular aviation app for iPad.
 
 Pilots can use the generated KML file to see every DDD restaurant location on their ForeFlight map while flight planning.
+
+## Quick Start — Get the KML into ForeFlight
+
+The ready-to-use KML file is located at **`output/DDD_Restaurants.kml`** in this repository.
+
+### How to upload it as a Custom Map Overlay in ForeFlight
+
+1. **Get the file to your iPad** — email it to yourself, use AirDrop, or sync it via a cloud service (iCloud, Dropbox, etc.).
+2. **Open the file on your iPad** — tap the `.kml` attachment/file and choose **"Open in ForeFlight"** from the share sheet, or use ForeFlight's built-in file importer: **More → Files → Import**.
+3. **Enable the overlay on the map** — go to the **Maps** view, tap the **Map Elements** (layer) button, scroll to **Custom Map Overlays**, and toggle on **Diners, Drive-Ins and Dives**.
+4. **Explore** — red pins will appear at each DDD restaurant location. Tap any pin to see the restaurant name, address, phone number, and description.
 
 ---
 
