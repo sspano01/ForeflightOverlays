@@ -1,2 +1,3 @@
 playwright>=1.40
 geopy>=2.4
+cloudscraper>=1.2

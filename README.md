@@ -1,38 +1,36 @@
-# ForeflightOverlays
+# ForeFlight Overlay Scraper
 
-A Python tool that scrapes all **Diners, Drive-Ins and Dives** restaurant locations from the [Food Network DDD A–Z listing](https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives/a-z), geocodes their addresses, and exports them as a **KML overlay** ready to import into [ForeFlight](https://foreflight.com/) — the popular aviation app for iPad.
+A Python tool that scrapes point-of-interest listings from multiple websites, geocodes their locations, and exports them as **KMZ overlays** ready to import into [ForeFlight](https://foreflight.com/) — the popular aviation app for iPad.
 
-Pilots can use the generated KML file to see every DDD restaurant location on their ForeFlight map while flight planning.
+Pilots can use the generated KMZ files to see interesting destinations on their ForeFlight map while flight planning.
 
-## Quick Start — Get the KML into ForeFlight
+## Supported Sources
 
-The ready-to-use KML file is located at **`output/DDD_Restaurants.kml`** in this repository.
+| Source | Flag | Description | Output Files |
+|--------|------|-------------|--------------|
+| **Diners, Drive-Ins and Dives** | `--source ddd` | 1,000+ restaurants from the Food Network TV show | `DDD_Restaurants.*` |
+| **Michelin Guide US** | `--source michelin` | 18,000+ restaurants from the Michelin Guide | `Michelin_Restaurants.*` |
+| **Atlas Obscura** | `--source atlas` | 12,000+ unusual and hidden places across the US | `AtlasObscura_StrangeSites.*` |
 
-### How to upload it as a Custom Map Overlay in ForeFlight
+## Quick Start — Get a KMZ into ForeFlight
 
-1. **Get the file to your iPad** — email it to yourself, use AirDrop, or sync it via a cloud service (iCloud, Dropbox, etc.).
-2. **Open the file on your iPad** — tap the `.kml` attachment/file and choose **"Open in ForeFlight"** from the share sheet, or use ForeFlight's built-in file importer: **More → Files → Import**.
-3. **Enable the overlay on the map** — go to the **Maps** view, tap the **Map Elements** (layer) button, scroll to **Custom Map Overlays**, and toggle on **Diners, Drive-Ins and Dives**.
-4. **Explore** — red pins will appear at each DDD restaurant location. Tap any pin to see the restaurant name, address, phone number, and description.
+Pre-built KMZ files are located in the **`output/`** directory.
 
----
+### How to upload as a Custom Map Overlay in ForeFlight
 
-## Features
-
-- Scrapes 1,000+ restaurants from the Food Network DDD listing (with pagination)
-- Extracts restaurant name, address, phone number, and description for each location
-- Geocodes addresses to GPS coordinates using [Nominatim](https://nominatim.openstreetmap.org/) (OpenStreetMap)
-- Exports a ForeFlight-compatible KML file with red map pins and rich popup details
-- Exports a human-readable Markdown table as a secondary reference
-- Saves an intermediate `restaurants.json` so scraping doesn't need to be re-run on every export
+1. **Get the file to your iPad** — email it to yourself, use AirDrop, or sync via a cloud service (iCloud, Dropbox, etc.).
+2. **Open the file on your iPad** — tap the `.kmz` attachment and choose **"Open in ForeFlight"**, or use **More → Files → Import** inside ForeFlight.
+3. **Enable the overlay on the map** — go to the **Maps** view, tap **Map Elements** (layer button), scroll to **Custom Map Overlays**, and toggle on the overlay.
+4. **Explore** — pins will appear at each location. Tap any pin to see the name, address, and a brief description.
 
 ---
 
 ## Requirements
 
-- Python 3.8+
-- [Playwright](https://playwright.dev/python/) for headless browser scraping
-- [GeoPy](https://geopy.readthedocs.io/) for geocoding
+- Python 3.10+
+- [Playwright](https://playwright.dev/python/) — headless browser automation (DDD and Michelin scrapers)
+- [GeoPy](https://geopy.readthedocs.io/) — geocoding via OpenStreetMap Nominatim
+- [cloudscraper](https://github.com/VeNoMouS/cloudscraper) — HTTP client with Cloudflare bypass (Atlas Obscura scraper)
 
 Install dependencies:
 
@@ -45,50 +43,59 @@ playwright install chromium
 
 ## Usage
 
-Run the scraper:
-
 ```bash
-python scrape_ddd.py
+# Diners, Drive-Ins and Dives (default)
+python scrape.py --source ddd
+
+# Michelin Guide US
+python scrape.py --source michelin
+python scrape.py --source michelin --max-pages 5      # limit pages
+python scrape.py --source michelin --resume            # resume from checkpoint
+
+# Atlas Obscura
+python scrape.py --source atlas
+python scrape.py --source atlas --max-pages 10        # limit pages
+python scrape.py --source atlas --resume               # resume from checkpoint
 ```
 
-The script will:
+### Command-Line Options
 
-1. **Scrape** all restaurant listings from the Food Network website
-2. **Extract** address, phone, and description from each restaurant's detail page
-3. **Geocode** each address to obtain GPS coordinates
-4. **Export** the results to the `output/` directory:
-   - `output/DDD_Restaurants.kml` — KML overlay for ForeFlight
-   - `output/DDD_Restaurants.md` — Markdown table
-   - `output/restaurants.json` — Intermediate JSON data
+| Option | Description |
+|--------|-------------|
+| `--source {ddd,michelin,atlas}` | Which website to scrape (default: `ddd`) |
+| `--max-pages N` | Limit scraping to the first N listing pages |
+| `--concurrency N` | Number of concurrent detail-page scrapers — Michelin only (default: 5) |
+| `--resume` | Resume a previous run from its checkpoint file (Michelin and Atlas) |
 
-> **Tip:** For a quick test run, set `MAX_PAGES = 2` near the top of `scrape_ddd.py` to limit scraping to the first two pages.
+### What the script does
 
----
-
-## Importing into ForeFlight
-
-1. Transfer `DDD_Restaurants.kml` to your iPad via email, AirDrop, or cloud storage.
-2. Open **ForeFlight** → **More** → **Files** and import the KML file.
-3. On the map, tap **Map Elements** and enable the DDD overlay.
-4. Red pins will appear at each restaurant location. Tap a pin to see the name, address, phone, and a brief description.
+1. **Scrapes** all listing pages from the selected source website
+2. **Extracts** name, address, description, and (where available) phone number from each entry
+3. **Geocodes** addresses to GPS coordinates (skipped for sources that already provide coordinates)
+4. **Exports** results to the `output/` directory as KMZ, Markdown, and JSON
 
 ---
 
 ## Output
 
-### KML (ForeFlight Overlay)
+Each source produces three files in `output/`:
 
-Each restaurant is represented as a placemark with:
-- **Red circular pin** icon
-- **Name** as the placemark title
-- **Description** including address, phone number, and a short summary
+| File | Purpose |
+|------|---------|
+| `*.kmz` | ForeFlight-compatible KMZ overlay with map pins |
+| `*.md` | Human-readable Markdown table |
+| `*.json` | Full scraped data in JSON format |
 
-### Markdown Table
+### KMZ Placemarks
 
-| Name | Address | Description | Phone | Latitude | Longitude |
-|------|---------|-------------|-------|----------|-----------|
-| Graze | 1888 Eastland Ave, Nashville 37206 | Graze is a family-owned, locally-sourced vegan restaurant. | (615) 686-1060 | 36.1824279 | -86.7355654 |
-| … | … | … | … | … | … |
+Each location is a placemark with a colored pin icon, the place name, and a description containing the address and a short summary.
+
+### Importing into ForeFlight
+
+1. Transfer the `.kmz` file to your iPad via email, AirDrop, or cloud storage.
+2. Open **ForeFlight** → **More** → **Files** and import the KMZ file.
+3. On the map, tap **Map Elements** and enable the overlay.
+4. Tap any pin to see details.
 
 ---
 
@@ -96,18 +103,40 @@ Each restaurant is represented as a placemark with:
 
 ```
 ForeflightOverlays/
-├── scrape_ddd.py        # Main scraper, geocoder, and exporter
-├── requirements.txt     # Python dependencies
+├── scrape.py              # Main scraper (all three sources)
+├── requirements.txt       # Python dependencies
+├── README.md
 └── output/
-    ├── DDD_Restaurants.kml   # ForeFlight KML overlay
-    ├── DDD_Restaurants.md    # Markdown reference table
-    └── restaurants.json      # Intermediate geocoded data
+    ├── DDD_Restaurants.kmz            # ForeFlight overlay — DDD
+    ├── DDD_Restaurants.md
+    ├── DDD_Restaurants.json
+    ├── Michelin_Restaurants.kmz       # ForeFlight overlay — Michelin
+    ├── Michelin_Restaurants.md
+    ├── michelin_restaurants.json
+    ├── AtlasObscura_StrangeSites.kmz  # ForeFlight overlay — Atlas Obscura
+    ├── AtlasObscura_StrangeSites.md
+    └── AtlasObscura_StrangeSites.json
 ```
+
+---
+
+## Data Sources & Credits
+
+This tool scrapes publicly available data from the following websites. All content and trademarks belong to their respective owners.
+
+- **[Food Network — Diners, Drive-Ins and Dives](https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives/a-z)** — Restaurant listings from the Guy Fieri TV show. © Food Network / Warner Bros. Discovery.
+- **[Michelin Guide US](https://guide.michelin.com/us/en/restaurants)** — Restaurant listings and distinctions (Stars, Bib Gourmand). © Michelin.
+- **[Atlas Obscura](https://www.atlasobscura.com/things-to-do/united-states/places)** — Unusual and hidden places around the United States. © Atlas Obscura Inc.
+- **[OpenStreetMap / Nominatim](https://nominatim.openstreetmap.org/)** — Geocoding service. © OpenStreetMap contributors, [ODbL](https://opendatacommons.org/licenses/odbl/).
+
+This project is for personal, non-commercial use. The scraped data is not redistributed in bulk; generated KMZ files are intended as personal flight-planning aids.
 
 ---
 
 ## Notes
 
 - Geocoding is rate-limited to ~1 request per second to comply with Nominatim's [usage policy](https://operations.osmfoundation.org/policies/nominatim/).
-- Only restaurants with a valid address, phone number, and geocoded coordinates are included in the final export.
-- The scraper uses a real browser (Chromium via Playwright) to handle JavaScript-rendered content and cookie consent dialogs on the Food Network website.
+- The Atlas Obscura scraper includes polite delays and exponential backoff to respect rate limits.
+- The Michelin and Atlas scrapers support checkpoint/resume (`--resume`) so long scraping runs can be interrupted and continued.
+- The DDD and Michelin scrapers use a real browser (Chromium via Playwright) to handle JavaScript-rendered content and cookie consent dialogs.
+- The Atlas Obscura scraper uses `cloudscraper` (no browser needed) since all data is available in the server-rendered HTML.

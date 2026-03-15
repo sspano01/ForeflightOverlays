@@ -28,14 +28,14 @@
 | Irie Island Eats | 4540 Overseas Highway, Marathon 33050 | Irie Island Easts is dedicated to preparing meals that taste good and creating a dining experience that feels good. | (305) 509-9398 | 24.713842 | -81.084313 |
 | Stogie Joe's Tavern | 1801 East Passyunk Ave, Philadelphia 19148 | Three brothers from Philly took over a local tavern to bring the Italian recipes they loved growing up to the… | (215) 463-3030 | 39.9275622 | -75.1659862 |
 | Hardena | 1754 S Hicks Street, Philadelphia 19145 | At Hardena, chef and owner Diana Widjojo is serving up Indonesian specialties with her mother Ena and her sister Lia. | (215) 271.9442 | 39.9284462 | -75.171266 |
-| Urban Chislic | 431 W. 85th St., Sioux Falls, SD 57108 | Urban Chislic is an eatery dedicated to paying homage to chiclic, the iconic South Dakotan dish. | (605) 275-6328 | 43.4750115 | -96.7252625 |
+| Urban Chislic | 431 W. 85th St., Sioux Falls, SD 57108 | Urban Chislic is an eatery dedicated to paying homage to chiclic, the iconic South Dakotan dish. | (605) 275-6328 | 43.4752132 | -96.7490138 |
 | "O" So Good Restaurant | 529 N. Main Ave., Garretson, SD 57030 | O So Good Restaurnant combines the love of childhood dishes, street food, 80s food truck fare. | (605) 594-3600 | 43.7159064 | -96.5031211 |
 | Lalibela | 200 South Kiwanis Ave., Sioux Falls 57104 | Seen an error? | (605) 271-0747 | 43.5457172 | -96.7607296 |
 | The Hungry Robot | 910 Old Steese Hwy., Fairbanks, AK 99701 | The Hungry Robot makes their dough and sauces from scratch, prepares all pizzas to order and bakes them in 90… | (907) 347 - 8117 ​ | 64.85214 | -147.6906803 |
 | Bread & Circus Sandwich Kitchen | 600 N. Main Ave. 110, Sioux Falls, SD 57104 | Seen an error? | (605) 338-2206 | 43.5539871 | -96.7279054 |
 | Hari Om Cuisine of India | 1528 S. Cushman St., Fairbanks, AK 99701 | Hari Om Cuisine of India combines cuisine, flavors and cooking techniques from the North-West Frontier of India to create dishes… | (907) 328-3218 | 64.8342837 | -147.7173232 |
 | Look's Marketplace | 500 E. 69th St., Sioux Falls, SD 57108 | Look's Marketplace, established in 1883, began as a family owned and operated business and despite ownership changing over time, its… | (605) 336-3104 | 43.4902525 | -96.721764 |
-| Daily Clean Food & Drink | 6215 South Western Avenue, Sioux Falls, SD 57108 | Daily Clean Food & Drink prepares their food and drinks using fresh, local and organic ingredients. | (605) 271-1736 | 43.4732346 | -96.7473265 |
+| Daily Clean Food & Drink | 6215 South Western Avenue, Sioux Falls, SD 57108 | Daily Clean Food & Drink prepares their food and drinks using fresh, local and organic ingredients. | (605) 271-1736 | 43.4663936 | -96.7474407 |
 | Mein Diner Food Truck | Fairbanks, AK | Seen an error? | 907-699-2433 | 64.837845 | -147.716675 |
 | Salty's On 2nd | 706 2nd Ave, Fairbanks, AK 99701 | Two friends, with more than thirty years of combined food experience, set out to change the culture of great dining… | 907-457-4992 | 64.8436399 | -147.7245939 |
 | Jazz Bistro On 4th | 527 4th Avenue, Fairbanks, AK 99701 | Jazz Bistro on 4th specializes in Cuban and Latin cuisine and feature Afro Cuban and Latin live jazz performances. | 907-328-3663 | 64.8423671 | -147.7180007 |
@@ -75,32 +75,32 @@
 | Cafe Tumerico | 2526 E. 6th St, Tucson 85716 | When Wendy Garcia moved to the states from Mexico she ditched the carnivore life and starting cooking things her own… | (520) 240-6947 | 32.2277001 | -110.9346894 |
 | Milly's Empanada Factory | 13911 SW 66th St, Miami, FL 33183 | Milly Martinez has been serving up authentic Venezuelan food in South Florida for more than two decades. | 305-791-1848 | 25.7061477 | -80.4206203 |
 | Zemam's | 2731 E. Broadway Blvd, Tucson, AZ 85716 | Chef and Owner Amanuel Gebremariam is bringing the bold flavors and traditions of East Africa straight to Arizona. | 520-323-9928 | 32.2215913 | -110.9318275 |
+| Renee’s Organic Oven | 7065 E Tanque Verde Rd, Tucson, AZ 85715 | At Renee’s Organic Oven, husband and wife team Steve and Renee Kreager are serving up Italian classics their own way. | 520-886-0484 | 32.2484228 | -110.8491571 |
 | Aloha Kitchen | 2950 S Alma School Rd, Mesa, AZ 85210 | Can’t get to Hawaii? | 480-897-2451 | 33.3607152 | -111.859381 |
-| Renee’s Organic Oven | 7065 E Tanque Verde Rd, Tucson, AZ 85715 | At Renee’s Organic Oven, husband and wife team Steve and Renee Kreager are serving up Italian classics their own way. | 520-886-0484 | 32.2498353 | -110.8472082 |
 | Mojo Donuts and Fried Chicken | 8870 Bird Rd, Miami, FL 33165 | This artisan doughnut shop in Miami is creating sweet mouthwatering masterpieces and some savory surprises. | 305-223-6656 | 25.7326778 | -80.3395582 |
 | Audrey Jane's Pizza Garage | 2675 13th St, Boulder 80304 | Audrey Sherman combined her passion for pizza with the teachings of Tony Gemignani, the heavy weight champ of global pizza… | 303-442-2032 | 40.025132 | -105.280779 |
-| Audrey Jane's Pizza Garage | 2675 13th St, Boulder 80304 | Audrey Sherman combined her passion for pizza with the teachings of Tony Gemignani, the heavy weight champ of global pizza… | 303-442-2032 | 40.025132 | -105.280779 |
+| Whistle Britches | 6110 Frankford Rd, Dallas, TX 75252 | Chef Omar Flores is dishing out comfort food with a Southern spin and making some seriously crispy fried chicken at… | 972-590-8991 | 32.9976795 | -96.7996007 |
+| One90 Smoked Meats | 10240 E. Northwest Highway, Dallas, TX 75238 | Guy’s been to more BBQ joints than most people so when one impresses him it’s worth trying. | 214-346-3287 | 32.8638613 | -96.7093809 |
 | The Post Chicken & Beer | 1258 S. Hover Rd, Longmont, CO 80501 | Chicken and beer are a match made in heaven, especially when the chicken is crispy, crunchy perfection. | 720-588-2883 | 40.1445221 | -105.1301855 |
 | Tacos Chiwas | 1923 East McDowell Rd, Phoenix 80202 | Special Dishes: Barbacoa Tacos, Gorditas | 602-358-8830 | 33.465545 | -112.0400964 |
-| One90 Smoked Meats | 10240 E. Northwest Highway, Dallas, TX 75238 | Guy’s been to more BBQ joints than most people so when one impresses him it’s worth trying. | 214-346-3287 | 32.8638613 | -96.7093809 |
-| Nora Restaurant and Bar | 1928 Greenville Ave, Dallas, TX 75206 | Chef Matt Pikar’s restaurant is the first Afghan place Guy has visited on DDD. | 214-828-0095 | 32.8135259 | -96.7701053 |
 | Momo Ghar | 1265 Morse Rd, Columbus, OH 43229 | Chef and Owner Phinsto Lama is cooking up Tibetan and Nepalese specialties in the middle of an international market in… | 614-749-2901 | 40.060932 | -82.9850778 |
+| Nora Restaurant and Bar | 1928 Greenville Ave, Dallas, TX 75206 | Chef Matt Pikar’s restaurant is the first Afghan place Guy has visited on DDD. | 214-828-0095 | 32.8135259 | -96.7701053 |
 | Tacos Mariachi | 602 Singleton Blvd, Dallas, TX 75212 | Chef Jesus Carmona is serving up real-deal Tijuana street tacos and more in Dallas. | 214-741-1239 | 32.778486 | -96.8333263 |
 | Slanted Rice Vietnamese Bistro | 6149 N. Scottsdale Rd., Scottsdale, AZ 85250 | A native of Vietnam, chef and owner Hue Tran describes the food at Slanted Rice Vietnamese Bistro as 90% Vietnamese… | 480-696-3116 | 33.5276347 | -111.924585 |
+| Zoe Ma Ma | 2010 10th St, Boulder, CO 80302 | For quick, super yummy street food head to Zoe Ma Ma and try the huge pork-filled Steamy Buns and the… | 303-545-6262 | 40.0175715 | -105.2825213 |
 | Republica Empanada | 204 East 1st Ave, Mesa, AZ 85210 | Republica Empanada is all about family and Latin-American comfort food. | 480-969-1343 | 33.4131378 | -111.8259556 |
 | Ena's Caribbean Kitchen | 2444 Cleveland Ave, Columbus, OH 43211 | Ena's Caribbean Kitchen is a family-filled Jamaican joint where Island favorite are fired up. | 614-262-0988 | 40.017155 | -82.965118 |
-| Zoe Ma Ma | 2010 10th St, Boulder, CO 80302 | For quick, super yummy street food head to Zoe Ma Ma and try the huge pork-filled Steamy Buns and the… | 303-545-6262 | 40.0175715 | -105.2825213 |
 | Sweet Carrot | 1417 W 5th Ave, Columbus, OH 43212 | Chef and owner Angela Petro brings creativity and fun to the cuisine at Sweet Carrot. | 614-488-7151 | 39.9886909 | -83.044188 |
 | Nighthawk Breakfast Bar | 417 Washington Blvd, Venice, CA 90292 | Nighthawk Breakfast Bar specializes in serving breakfast for dinner. | 424-835-4556 | 33.9813794 | -118.4631228 |
-| Sweet Carrot | 1417 W 5th Ave, Columbus, OH 43212 | Chef and owner Angela Petro brings creativity and fun to the cuisine at Sweet Carrot. | 614-488-7151 | 39.9886909 | -83.044188 |
+| Bootleggers Modern American Smokehouse | 7217 E 1st St, Scottsdale, AZ 85251 | Chef Kevin Slade found his calling on the barbecue circuit. | 480-404-9984 | 33.4920014 | -111.9256059 |
 | Pierogi Mountain | 105 N Grant Ave, Columbus 43215 | Pierogi Mountain is a dive bar that serves pierogi and comfort food during the day and adds a side of… | 614 745 3139 | 39.9655561 | -82.9919254 |
 | Aloy Thai Cuisine | 2720 Canyon Blvd, Boulder, CO 80302 | For amazing Thai in Boulder, head to Aloy Thai. | 303-440-2903 | 40.0172736 | -105.2590609 |
 | Ray Ray's Hog Pit | 2619 N High St, Columbus, OH 43202 | Chef and Owner James Anderson raises his own pigs for the succulent smoked offerings at Ray Ray’s Hog Pit, a… | 614-753-1191 | 40.0157419 | -83.0121368 |
-| Loops | 1629 Northwest Blvd, Columbus, OH 43212 | Head to this family-owned joint for a taste of Chicago favorites in Columbus, Ohio. | 614-670-8808 | 39.9916238 | -83.0408583 |
 | The Roost | 526 Main St., Longmont, CO 80501 | The Roost is a neighborhood spot with a righteous menu and a heartfelt mission. | 303-827-3380 | 40.1684096 | -105.1021153 |
-| Buya Ramen | 911 Central Avenue St, St. Petersburg, FL 33705 | Buya Ramen brings an off-beat attitude to Asian cuisine. | 727-202-7010 | 27.7713203 | -82.6471859 |
-| Bourrée | 1510 South Carrollton Ave, New Orleans, LA 70118 | Guy heads to this little Cajun smoke house for a righteous taste of New Orleans. | 504-510-4040 | 29.9498334 | -90.1274827 |
+| Loops | 1629 Northwest Blvd, Columbus, OH 43212 | Head to this family-owned joint for a taste of Chicago favorites in Columbus, Ohio. | 614-670-8808 | 39.9916238 | -83.0408583 |
 | Eastside Fish Fry & Grill | 417 East Kalamazoo St, Lansing, MI 48912 | Eastside Fish Fry & Grill is known for its amazing chicken wings, prepared with a 48-hour dry rub marinade and… | 517-993-5988 | 42.7297281 | -84.5435837 |
+| Bourrée | 1510 South Carrollton Ave, New Orleans, LA 70118 | Guy heads to this little Cajun smoke house for a righteous taste of New Orleans. | 504-510-4040 | 29.9498334 | -90.1274827 |
+| Buya Ramen | 911 Central Avenue St, St. Petersburg, FL 33705 | Buya Ramen brings an off-beat attitude to Asian cuisine. | 727-202-7010 | 27.7713203 | -82.6471859 |
 | Sunset Pointe | 831 N. Section St, Fairhope 36532 | Chef and Owner Pete Blohme is making show-stopping seafood in Alabama including an amazing bouillabaisse and a dish with a… | 251-990-7766 | 30.5418979 | -87.898354 |
 | Panini Pete’s | 42 1/2 South Section St, Fairhope 36526 | Anyone looking for a fast-food restaurant that is a little more upscale than just burgers and fries should check out… | (251) 929-0122 | 30.5046726 | -87.9029978 |
 | Fat Olives | 2308 E Route 66, Flagstaff 86004 | At Fat Olives, Chef and Owner John Conley is making true Neapolitan pizza using an oven handcrafted in Italy, handmade… | 928-853-0056 | 35.2051643 | -111.6147101 |
@@ -109,8 +109,8 @@
 | Dr. Field Good's Kitchen | 187 Paseo De Peralta, Santa Fe, NM 87501 | This restaurant serves unique dishes with a New Mexican flair. | 505-982-3033 | 35.6920568 | -105.9486748 |
 | Thai Mee Up | 591 Haleakala Hwy, Kahului 96732 | Guy heads to Thai Mee Up for Thai-inspired Hawaiian food right by the airport. | 808-214-3369 | 20.8883688 | -156.447776 |
 | Alkaline | 742 W 21st St., Norfolk 23517 | Chef and Owner Kevin Ordonez is taking Asian street food to another level at Alkaline. | (757) 395-4300 | 36.8708296 | -76.295079 |
-| The Dirty Buffalo | 4012 Colley Ave, Norfolk, VA 23508 | Patrons flock to The Dirty Buffalo for the best wings south of Buffalo. | 757-226-7851 | 36.8738958 | -76.2953439 |
-| Frankinbun | 540 S Indian Canyon Dr, Palm Springs, CA 92264 | Stop by Frankinbun for one of the best vegan dishes Guy has ever had. | 760-318-4841 | 33.8144086 | -116.5455849 |
+| The Dirty Buffalo | 4012 Colley Ave, Norfolk, VA 23508 | Patrons flock to The Dirty Buffalo for the best wings south of Buffalo. | 757-226-7851 | 36.8755366 | -76.2950433 |
+| Frankinbun | 540 S Indian Canyon Dr, Palm Springs, CA 92264 | Stop by Frankinbun for one of the best vegan dishes Guy has ever had. | 760-318-4841 | 33.8150503 | -116.5455769 |
 | HoBo's BBQ | 30590 Rancho California Rd, Temecula, CA 92591 | Diners flock to Hobo's for the best barbeque in Southern California. | 951-693-3227 | 33.510024 | -117.125938 |
 | The Pastrami Project | 825 N Magnolia Ave, Orlando 32803 | If it seems like The Pastrami Project’s George Markward has studied the New York deli scene it’s because he has. | 321-804-2686 | 28.5459796 | -81.3767409 |
 | Cuchara Restaurant | 214 Fairview St, Houston, TX 77006 | Guy wasn’t prepared for the depth of authenticity he would experience at Cuchara. | 713-942-0000 | 29.7483183 | -95.3850554 |
@@ -125,12 +125,12 @@
 | JJ's Red Hots | 1514 East Blvd, Charlotte, NC 28203 | JJ’s Red Hots is one food establishment that has gone entirely to the dogs … hot dogs, that is. | 980-225-8880 | 35.1999844 | -80.8423492 |
 | Matt’s BBQ | 4233 N Mississippi Ave, Portland, OR 97217 | Matt Vicedomini turns out big flavors from inside his tiny food truck, where he’s smoking meats that made Guy’s mouth… | 516-314 4739 | 45.554156 | -122.6756313 |
 | Dolce & Clemente’s | 2 N Commerce Square, #101, Robbinsville, NJ 08691 | Guy was dazzled by the immense selection at this old-school Italian deli, which turns out dozens of fresh items daily. | 609-259-0072 | 40.2187586 | -74.6274952 |
-| The Seafood Lady | 617 W Oak St, Louisville, KY 40203 | Locals head to this former tire shop for a taste of seafood served Florida-style. | 502-210-9381 | 38.2355989 | -85.7645808 |
+| The Seafood Lady | 617 W Oak St, Louisville, KY 40203 | Locals head to this former tire shop for a taste of seafood served Florida-style. | 502-210-9381 | 38.2354238 | -85.7638759 |
 | Can Vilaro | Carrer del Comte Borrell, 61, 08015 Barcelona, Spain | Tourists and locals alike head to Can Vilaro to load up on traditional Catalan dishes. | 34-93-325-0578 | 41.3778848 | 2.1617642 |
 | El Pacifico | Carrer de la Vila Joiosa, 52, 08003 Barcelona, Spain | Guy stopped by this beachside spot, which he deemed a “rocking tapas and paella joint” to sample the signature dishes. | 34-93-225-7164 | 41.3781446 | 2.1911518 |
 | Pulperia A Gudiña | Carrer Entença, 2, 08015 Barcelona, Spain | This tiny tapas joint doesn’t skimp on the flavor, as evidenced by the menu of small plates cooked up in… | 34-934-265-631 | 41.3754685 | 2.1563636 |
-| Can Conesa | Carrer de la Llibreteria, 1, 08002, Barcelona, Spain | This cozy spot draws the crowds with its beauteous bocadillos (that’s Spanish for sandwiches). | 34-933-101-394 | 41.3830251 | 2.1771142 |
-| Cal Boter | Carrer de Tordera, 62, 08012 Barcelona, Spain | Crowds head to this homey restaurant to dig into classic Catalan dishes, such as snails. | 34-934-588-462 | 41.4021821 | 2.1623675 |
+| Can Conesa | Carrer de la Llibreteria, 1, 08002, Barcelona, Spain | This cozy spot draws the crowds with its beauteous bocadillos (that’s Spanish for sandwiches). | 34-933-101-394 | 41.383052 | 2.1771014 |
+| Cal Boter | Carrer de Tordera, 62, 08012 Barcelona, Spain | Crowds head to this homey restaurant to dig into classic Catalan dishes, such as snails. | 34-934-588-462 | 41.4021663 | 2.1623411 |
 | Tails & Trotters | 525 NE 24th Ave, Portland, OR 97232 | Locals head to this shop that Guy describes as a “smorgasbord of pork” to load up on the signature meats… | 503-477-8682 | 45.5267076 | -122.6415203 |
 | Momma's Mustard, Pickles & BBQ | 102 Bauer Ave, Louisville, KY 40207 | Kansas native Chad Cooley delivers the smoky flavors of his home state to Kentucky by way of this barbecue joint. | 502-938-6262 | 38.2523705 | -85.6614318 |
 | Grind Burger Kitchen | 829 E Market St, Louisville, KY 40206 | Owners Liz and Jesse Huot started off serving grass-fed beef burgers from a tiny trailer, but demand soon grew to… | 502-851-7333 | 38.2534742 | -85.7365892 |
@@ -143,7 +143,7 @@
 | Vida Cantina | 2456 Lafayette Rd, Portsmouth, NH 03801 | This former fast-food joint dances with vibrant colors and serves bright, beautiful dishes to match. | 603-501-0648 | 43.0334171 | -70.7832912 |
 | Rocky Hill Inn | 137 Washington St, Rocky Hill, NJ 08553 | Chef Evan Blomgren draws the crowds with his elevated takes on traditional bar bites served inside a beautiful, historical building. | 609-683-8930 | 40.3998966 | -74.6336575 |
 | Tuckaway Tavern & Butchery | 58 NH-27, Raymond 03077 | The Tuckaway Tavern draws a steady stream of diners, thanks to a stellar menu dreamed up by Chef Bobby Marcotte. | 603-244-2431 | 43.039581 | -71.165807 |
-| Vincentown Diner | 2357 US-206, Vincentown, NJ 08088 | This massive diner dishes up scratch-made classics made from fresh, locally sourced ingredients. | 609-267-3033 | 39.9300691 | -74.7424582 |
+| Vincentown Diner | 2357 US-206, Vincentown, NJ 08088 | This massive diner dishes up scratch-made classics made from fresh, locally sourced ingredients. | 609-267-3033 | 39.9411863 | -74.7434585 |
 | The Kitchen | 171 Islington St, Portsmouth, NH 03801 | This spot takes its inspiration from New York-style delis, which means the menu is rife with hefty sandwiches, as expected. | 603-319-8630 | 43.0743648 | -70.7640706 |
 | Bagel Street | 660 Plainsboro Rd, Plainsboro Township, NJ 08536 | Bagels are the name of the game at this shop, where brothers and owners Jimmy and Doug Rohr are slinging… | 609-936-1755 | 40.328657 | -74.5757383 |
 | Prairie Dogs | 610 W Lake St, Minneapolis, MN 55408 | Fittingly, Chef Craig Johnson’s first job was slinging hot dogs. | 612-223-8984 | 44.9484879 | -93.2875162 |
@@ -152,7 +152,7 @@
 | Ivan’s Cookhouse | 14815 Biscayne Blvd, North Miami Beach, FL 33181 | From his post inside an open-plan kitchen, Chopped champion Ivan Dorvil plates up sizzling staples from his native Haiti, including… | 305-944-4826 | 25.9126435 | -80.1558417 |
 | Street Food 360 | 801 Islington St, Portsmouth, NH 03801 | The husband-and-wife duo behind Street Food 360 share tastes of their world travels with fresh spins on global favorites. | 603-436-0860 | 43.0689387 | -70.7730527 |
 | Red Wagon Pizza Company | 5416 Penn Ave S, Minneapolis 55419 | Pizza has long been a way of life for Chef-Owner Peter Campbell, whose family made pies as a regular pastime. | 612-259-7147 | 44.9045581 | -93.3088921 |
-| The Original Barone's Famous Italian | 13726 Oxnard St, Valley Glen, CA 91401 | This family-owned eatery is famous for slinging rectangular thin-crust, Neapolitan-style slices, which they've been doing since well before pizza made… | 818-782-6004 | 34.1794187 | -118.4261602 |
+| The Original Barone's Famous Italian | 13726 Oxnard St, Valley Glen, CA 91401 | This family-owned eatery is famous for slinging rectangular thin-crust, Neapolitan-style slices, which they've been doing since well before pizza made… | 818-782-6004 | 34.1794173 | -118.4245581 |
 | Delancey Pizzeria & Bar | 5936 Sunset Blvd., Hollywood, CA 90028 | Owner George Abou-Daoud opened this joint as an homage to the Italian restaurants in downtown Manhattan, and it’s apparent once… | 323-469-2100 | 34.0979538 | -118.3198667 |
 | Surly Brewing Company | 520 Malcolm Avenue SE, Minneapolis, MN 55414 | The minds behind Surly Brewing know a thing or two about overcoming obstacles. | 763-999-4040 | 44.9733112 | -93.2096463 |
 | The Local | 150 Giralda Ave., Coral Gables, FL 33134 | This local eatery is a one-stop shop for craft brews and what Guy called “amped-up, down-home cooking.” They’re slinging Southern-inspired… | 305-648-5687 | 25.7511377 | -80.2577724 |
@@ -177,7 +177,7 @@
 | Taquiza | 1351 Collins Ave, Miami Beach 33139 | Situated on Miami Beach’s main drag, Taquiza draws the crowds hungry for well-made tacos and primo people-watching. | (305) 203-2197 | 25.7850123 | -80.1307046 |
 | Souley Vegan | 301 Broadway, Oakland, CA 94607 | Chef-Owner Tamearra Dyson serves up Creole classics and soul food favorites with a surprising twist: All the dishes offered at… | 510-922-1615 | 37.7970189 | -122.276087 |
 | Clove and Hoof | 4001 Broadway, Oakland, CA 94611 | A mecca for ethically minded carnivores and anyone who loves top-quality meat, Clove and Hoof houses both a butcher shop… | 510-547-1446 | 37.8278177 | -122.2567725 |
-| Pilot House Marina & Restaurant | 13 Seagate Blvd, Key Largo, FL 33037 | This waterfront complex seemingly has it all: a glass-bottom bar with live music and drink specials, an attached marina and… | 305-451-3142 | 25.0881924 | -80.4404284 |
+| Pilot House Marina & Restaurant | 13 Seagate Blvd, Key Largo, FL 33037 | This waterfront complex seemingly has it all: a glass-bottom bar with live music and drink specials, an attached marina and… | 305-451-3142 | 25.0876661 | -80.4406857 |
 | Blue-Eyed Crab Caribbean Grill and Rum Bar | 170 Water St, Plymouth, MA 02360 | Chef Jim Casey has dreamt up a menu that takes inspiration from the islands, as it’s loaded with seafood dishes… | 508-747-6776 | 41.9624276 | -70.6692569 |
 | Rasta Pasta | 405 N Tejon St, Colorado Springs, CO 80903 | The unusual dishes at this Caribbean pasta joint had Guy exclaiming, “You guys are crazy!” He tried the namesake Rasta… | 719-481-6888 | 38.839807 | -104.8229545 |
 | Paravicini's Italian Bistro | 2802 W Colorado Ave, Colorado Springs 80904 | The rough translation of para vicini is “for the neighborhood,” and it’s exactly that community spirit that Chef-Owner Franco Pisani… | 719-471-8200 | 38.8501556 | -104.8671575 |
@@ -192,7 +192,7 @@
 | Parkside Market | 281 Main St, Falmouth, MA 02540 | Want to fuel up for the day with a hearty morning feast? | 774-763-2066 | 41.552029 | -70.6145022 |
 | Bayport BBQ | 328 5th Ave N, Bayport, MN 55003 | The motto of this small-town barbecue joint is “we aren’t for everyone,” but Guy certainly liked what he found at… | 651-955-6337 | 45.0217311 | -92.7816585 |
 | Driftwood Publick House and Oysteria | 39 Court St, Plymouth, MA 02360 | Classic home cooking with a unique twist is what you’ll get at this gastropub that had Guy declaring it “out… | 508-927-4060 | 41.9582174 | -70.6667814 |
-| Buster's on 28th | 4204 S 28th Ave, Minneapolis, MN 55406 | Buster’s on 28th is so beloved that local fans rallied to raise money to rebuild it after the gastropub burned… | 612-729-0911 | 44.9250152 | -93.2321117 |
+| Buster's on 28th | 4204 S 28th Ave, Minneapolis, MN 55406 | Buster’s on 28th is so beloved that local fans rallied to raise money to rebuild it after the gastropub burned… | 612-729-0911 | 44.9266272 | -93.2323582 |
 | Pickle Jar Kitchen | 170 Main St, Falmouth, MA 02540 | Not just the name of this restaurant is unusual -- its menu is chock-full of dishes totally unexpected in a… | 508-540-6760 | 41.5536062 | -70.6189812 |
 | Lodge Sasquatch Kitchen | 151 N College Ave, Fort Collins, CO 80524 | Triple-D alum Aaron May and former NFL player Jared Allen are the dynamite duo behind this spot, which has a… | 970-682-2369 | 40.5883127 | -105.0768313 |
 | Dana's Kitchen | 881 Palmer Ave, Falmouth, MA 02540 | This quaint Cape Cod cafe is open year-round, serving up pastries, sandwiches and soups that made a fan out of… | 508-540-7900 | 41.5812497 | -70.6280461 |
@@ -210,10 +210,10 @@
 | Fat Choy Restaurant | 595 E Sahara Ave, Las Vegas, NV 89104 | Chef Sheridan Su’s gamble of opening a food truck in Las Vegas in 2011 paid off big, as the crowds… | 702-794-3464 | 36.1440297 | -115.1469849 |
 | Tub's Fine Chili and Fancy Fixin's | 4263 Overland Ave, Culver City, CA 90230 | Chef-Owner Rick Hodges and his wife, Margie, are slinging more than six varieties of chili daily at their Wild West-themed… | 310-592-6070 | 34.0116999 | -118.4005732 |
 | Mert's Heart and Soul | 214 N College St, Charlotte, NC 28202 | Guy couldn’t visit North Carolina without getting a taste of low-country cooking, so he made a beeline for this down-home… | 704-342-4222 | 35.2271575 | -80.8405483 |
-| Crepe Expectations | 9500 S Eastern Ave, Las Vegas 89123 | In over-the-top Sin City, even the classic crepe gets revamped in outrageous new ways, as Guy learned during a visit… | 702-583-4939 | 36.0163805 | -115.1172208 |
+| Crepe Expectations | 9500 S Eastern Ave, Las Vegas 89123 | In over-the-top Sin City, even the classic crepe gets revamped in outrageous new ways, as Guy learned during a visit… | 702-583-4939 | 36.0162916 | -115.1172101 |
 | Veggie Galaxy | 450 Massachusetts Ave, Cambridge, MA 02139 | Head here for American diner staples with a vegetarian makeover, as well as fresh baked goods from the restaurant’s 100-percent-vegan… | 617-497-1513 | 42.3636635 | -71.1011293 |
 | Bauer's 66 1/2 | 1700 McHenry Ave, Modesto, CA 95350 | At this cool little spot in Modesto, Chef-Owner Tye Bauer serves up a tantalizing array of dishes inspired by his… | 209-985-1199 | 37.6701158 | -120.9930781 |
-| DiGiorgio's Cafe Largo | 99530 Overseas Hwy, Key Largo, FL 33037 | Snowbirds from the East Coast flock here when they want a taste of authentic Italian-American cuisine. | 305-451-4885 | 25.0930154 | -80.4429736 |
+| DiGiorgio's Cafe Largo | 99530 Overseas Hwy, Key Largo, FL 33037 | Snowbirds from the East Coast flock here when they want a taste of authentic Italian-American cuisine. | 305-451-4885 | 25.0938484 | -80.4437761 |
 | El Nuevo Frutilandia | 3077 24th St, San Francisco, CA 94110 | This classic spot in the Mission District dishes up Puerto Rican and Cuban favorites. | 415-648-2958 | 37.7524117 | -122.4132862 |
 | Green Papaya Food Truck | Stockton, CA 95205 | In a first for Guy, he checked out this food truck dishing up Laotian street food, which Chef-Owner Mony Vangsoulatda… | 209-981-8733 | 37.9577016 | -121.290779 |
 | Islamorada Shrimp Shack | 81901 Overseas Hwy, Islamorada, FL 33036 | Shrimp dishes may be a specialty at this spot, but Chef-Owner Jill Jahn doesn’t stop there, as Guy found out… | 305-664-8433 | 24.919158 | -80.633926 |
@@ -224,9 +224,9 @@
 | Miss Shirley’s Cafe | 513 W Cold Spring Ln, Baltimore 21210 | Crowds flock here for the decadent eats that reflect the Southern-inspired vision of late owner Eddie Dopkin (his son continues… | 410-889-5272 | 39.3444204 | -76.631433 |
 | Sam's Rialto Bar & Grill | 18 S Main St, Pleasantville, NJ 08232 | Locals head here for the scratch-made Southern eats created by Sam Hunter, whose legacy is carried on by his widow. | 609-646-5128 | 39.3914137 | -74.5226825 |
 | Front Range Barbeque | 2330 W Colorado Ave, Colorado Springs, CO 80904 | Chef-Owner Brian Fortinberry, who hails from Alabama, draws on an arsenal of family recipes to make his delectable Southern dishes. | 719-632-2596 | 38.8463064 | -104.8607677 |
-| Buttermilk Kitchen | 4225 Roswell Rd NE, Atlanta 30342 | When Guy wanted to try the best biscuits in Atlanta, he made a beeline for this spot. | 678-732-3274 | 33.8734582 | -84.381017 |
+| Buttermilk Kitchen | 4225 Roswell Rd NE, Atlanta 30342 | When Guy wanted to try the best biscuits in Atlanta, he made a beeline for this spot. | 678-732-3274 | 33.877112 | -84.3798421 |
 | Spice Island Grill | 10 N Sierra Madre St, Colorado Springs, CO 80903 | Colorado Springs may seem like an unlikely place to find Jamaican food, but Guy is in luck when he swings… | 719-473-8280 | 38.8350693 | -104.8280293 |
-| Carving Room | 140 M St, NE, Washington, DC 20002 | This spot earned the name “carnivore compound” from Guy, thanks to its meat-heavy menu of scratch-made creations that reflect the… | 202-962-3947 | 38.9002018 | -76.9844359 |
+| Carving Room | 140 M St, NE, Washington, DC 20002 | This spot earned the name “carnivore compound” from Guy, thanks to its meat-heavy menu of scratch-made creations that reflect the… | 202-962-3947 | 38.9002034 | -76.9965629 |
 | Alewife Baltimore | 21 N Eutaw St, Baltimore 21201 | This bar offers 90-plus beers, but Guy homes in on the unusual eats. | 410-545-5112 | 39.2902692 | -76.6207282 |
 | Biju's Little Curry Shop | 1441 26th St, Denver, CO 80205 | Guy couldn’t help but munch on this restaurant’s staple ingredient: fresh curry leaves that are blended with a heat-packed combo… | 303-292-3500 | 39.759614 | -104.986466 |
 | Toki Underground | 1234 H Street NE, Washington, DC 20002 | This semi-hidden noodle shop serves up addictive dishes like the Toki Classic Ramen that Guy describes as “a seven-course meal… | 202-388-3086 | 38.9004389 | -76.9890445 |
@@ -234,12 +234,12 @@
 | Mountain Shadows Restaurant | 2223 W Colorado Ave, Colorado Springs, CO 80904 | This spot won Guy over with its heaping portions of comfort food. | 719-633-2122 | 38.8446448 | -104.8586485 |
 | Franks Diner | 508 58th St., Kenosha, WI 53140 | On Triple D, Guy takes a heaping mouthful of the famous Garbage Plate at Franks Diner. | 262-657-1017 | 42.5835366 | -87.8175934 |
 | Ferndale Elementary Jr. High Pretzel Cart | Ferndale, CA 48220 | When Guy was growing up in Ferndale, California, he set up his own pretzel cart to earn some extra money. | 1119007288 | 40.5778545 | -124.2621147 |
-| Clendenen's | 96 S 12th St, Fortuna, CA 95540 | Guy claims Clendenen’s apple cider is the best he’s ever had. | (707)725-2123 | 40.5879546 | -124.1553528 |
+| Clendenen's | 96 S 12th St, Fortuna, CA 95540 | Guy claims Clendenen’s apple cider is the best he’s ever had. | (707)725-2123 | 40.5892147 | -124.1545289 |
 | Mas Tacos por Favor | 732 Mcferrin Ave, Nashville 37206 | Mas Tacos por Favor started in a 1974 Winnebago and has since become one of Nashville's favorite eateries, known and… | (615) 543-6271 | 36.1844285 | -86.7543953 |
 | Center Point Pit Barbecue | 1212 W Main St, Hendersonville 37075 | At Center Point Pit Barbecue, owner Robert Duke smokes his pork until in turns "black as night." But as Guy… | (615) 824-9330 | 36.3095865 | -86.6686168 |
 | Miller's East Coast Deli | 1725 Polk St, San Francisco, CA | Miller's East Coast Deli may be in San Francisco, but that doesn't mean it can't dish out one hearty bowl… | 415-563-3542 | 37.7927429 | -122.4214366 |
 | The Bagel Delicatessen & Restaurant | 6439 E Hampden, Denver 80222 | This Jewish Deli is serving up all the classics from chopped liver and egg salad to tongue sandwiches. | 303-756-6667 | 39.6531698 | -104.9137255 |
-| Flakowitz of Boynton Bakery & Deli Restaurant | 7410 W Boynton Beach Blvd, Boynton Beach, FL 33437 | Although it's located in Florida, this diner is serving up New York-style Jewish deli classics. | (561) 742-4144 | 26.528154 | -80.1293973 |
+| Flakowitz of Boynton Bakery & Deli Restaurant | 7410 W Boynton Beach Blvd, Boynton Beach, FL 33437 | Although it's located in Florida, this diner is serving up New York-style Jewish deli classics. | (561) 742-4144 | 26.5282809 | -80.143717 |
 | The Brick House Cafe and Catering | 13485 Reynolds St, Cable, WI 54821 | For Guy, the standout at The Brick House Cafe is the espresso BBQ pulled pork sandwich. | (715) 798-5432 | 46.2075044 | -91.2914157 |
 | Brick and Fire | 1630 F St, Eureka, CA 95501 | Guy heads to California to check out Brick and Fire’s Mushroom Cobbler featuring ingredients from Chef Jim Hughes’ garden. | (707) 268-8959 | 40.7923363 | -124.1638825 |
 | Black Tree | 131 Orchard St, New York, NY 10002 | Guy calls Black Tree “hard core” because this spot takes its farm-to-table mantra very seriously. | (212) 533-4684 | 40.719721 | -73.9895213 |
@@ -274,7 +274,7 @@
 | A1 Diner | 3 Bridge St, Gardiner, ME 04345 | This original Worcester Diner car #790 serves everything from burgers to Greek stuffed flank steak roulade. | 207-582-4804 | 44.2299639 | -69.774418 |
 | Fresh Catch | 3109 Waialae Ave, Honolulu, HI 96816 | Restaurant owner, chef and octopus wrangler Reno Henriques uses only the freshest seafood to make over 30 types of poke,… | 808-735-7653 | 21.2883856 | -157.8102415 |
 | Red Arrow Diner | 61 Lowell St., Manchester, NH 03101 | Since 1922, Red Arrow Diner has kept open 24 hours a day (except for the 16 hours over Christmas) to… | 603-626-1118 | 42.9934593 | -71.4614241 |
-| Sonny's Famous Steak Hogies | 1857 N 66th Ave, Hollywood 33024 | Take a ride down to Sonny's to see why "folks are lining up just like back in 1958" to get… | 954-989-0561 | 26.011499 | -80.2210173 |
+| Sonny's Famous Steak Hogies | 1857 N 66th Ave, Hollywood 33024 | Take a ride down to Sonny's to see why "folks are lining up just like back in 1958" to get… | 954-989-0561 | 26.0206016 | -80.2200585 |
 | Prince Lebanese Grill | 502 W Randol Mill Rd, Arlington, TX 76011 | Prince Lebanese Grill channels the flavors of the Mediterranean, with familiar classics such as falafel, shawarma and tabbouleh, and some… | 817-469-1811 | 32.7499928 | -97.1115181 |
 | Westside Drive In | 1939 W State St, Boise, ID 83702 | Most drive-ins serve burgers and fries, but here a gourmet chef is dishing out delicious meals to the cars that… | (208) 342-2957 | 43.6259308 | -116.2153029 |
 | Schellville Grill | 22900 Broadway, Sonoma, CA 95476 | To get to Schellville Grill you will need to search off the beaten path. | (707) 996-5151 | 38.245149 | -122.44915 |
@@ -313,7 +313,7 @@
 | Kelly's Diner | 674 Broadway, Somerville, MA 02144-2220 | Jay Holmes loved going to diners as a child, so he jumped at the chance to restore an old Delaware… | (617) 623-8102 | 42.3996116 | -71.1118918 |
 | Russian River Pub | 11829 River Rd., Forestville 95436 | For more than 25 years, Russian River Pub has been the go-to place for good ol' family fun. | 707-887-7932 | 38.5041638 | -122.9411587 |
 | Bayway Diner | 2019 S Wood Ave, Linden, NJ 07036 | Bayway Diner started out as a nine-seater. | (908) 862-3207 | 40.620811 | -74.2354411 |
-| Rosie's Diner | 4500 14 Mile Rd., Rockford, MI 49341 | Guy Fieri, host of Food Network's Diners, Drive-Ins and Dives, satisfies his craving for American cookin' at Rosie's Diner in… | 616-866-3663 | 43.1170925 | -85.5895518 |
+| Rosie's Diner | 4500 14 Mile Rd., Rockford, MI 49341 | Guy Fieri, host of Food Network's Diners, Drive-Ins and Dives, satisfies his craving for American cookin' at Rosie's Diner in… | 616-866-3663 | 43.1170932 | -85.5895015 |
 | Al's Breakfast | 413 14th Ave SE, Minneapolis, MN 55414 | When Guy revisits Al's Breakfast for the second time, he finds the popular spot is "still packed and still run… | (612) 331-9991 | 44.9810411 | -93.2355665 |
 | Paul's Coffee Shop | 16947 Bushard St, Fountain Valley, CA 92708 | Marines and veterans from all forces are all welcome at Paul's Coffee Shop. | (714) 965-3643 | 33.71669 | -117.9636877 |
 | Eischen's Bar | 109 S 2nd St, Okarche, OK 73762 | A few hundred regulars wrote in to get Triple D to stop at this fried chicken haven that's serving theirs… | 405-263-9939 | 35.7245835 | -97.9753245 |
@@ -326,18 +326,18 @@
 | Pizzeria Luigi | 1137 25th St, San Diego 92102 | It only took one bite of Pizzeria Luigi's Capone meat-lover pizza for Guy to instantly become a fan (he has… | 619-233-3309 | 32.7175596 | -117.14019 |
 | Naked City Pizza | 3240 S Arville St, Las Vegas, NV 89102 | Tucked away in a bar, this pizza place serves gourmet pies in a frill-free setting. | 702-243-6277 | 36.1590511 | -115.1997589 |
 | Pizzeria Lola | 5557 Xerxes Ave S, Minneapolis, MN 55410 | Andrew Zimmern introduced Guy to this pizzeria, where Guy indulged in the Sunnyside pizza despite his aversion to eggs. | (612) 424-8338 | 44.9018142 | -93.3185328 |
-| Martin's Bar-B-Que Joint | 7238 Nolensville Rd, Nolensville 37135 | At Martin's Bar-B-Que Joint, to go "whole hog" literally means roasting a 200-pound hog in its entirety. | 615-776-1865 | 35.9665153 | -86.6766389 |
+| Martin's Bar-B-Que Joint | 7238 Nolensville Rd, Nolensville 37135 | At Martin's Bar-B-Que Joint, to go "whole hog" literally means roasting a 200-pound hog in its entirety. | 615-776-1865 | 35.9633474 | -86.6749986 |
 | Wilson's Holy Smoke BBQ | 1851 Post Rd., Fairfield, CT 06824 | Guy first met pit master Ed Wilson in brisket cooking school. | (203) 319-7427 | 41.1409223 | -73.2642492 |
 | La Isla Restaurant | 104 Washington St, Hoboken, NJ 07030 | "Good Cuban food makes you put a smile on your face," says a diner at La Isla. | 201-659-8197 | 40.737746 | -74.031119 |
-| Marie's Italian Specialties | 641 Shunpike Rd, Chatham, NJ 07928 | A husband and wife team are serving Italian-style comfort food at this popular New Jersey spot. | 973-377-7878 | 40.7454475 | -74.4317028 |
+| Marie's Italian Specialties | 641 Shunpike Rd, Chatham, NJ 07928 | A husband and wife team are serving Italian-style comfort food at this popular New Jersey spot. | 973-377-7878 | 40.7457166 | -74.4323656 |
 | Tupelo | 1193 Cambridge St, Cambridge, MA 02139 | When it comes to New Orleans-style cuisine, no one adds as much flair to their cooking as Chef Rembs Layman. | 617-868-0004 | 42.37338 | -71.0971618 |
 | The Nook | 492 Hamline Ave S, St. Paul, MN 55116 | The Nook is a no-fuss burger joint that has mastered the art of stuffed burgers. | 651-698-4347 | 44.9265822 | -93.1566977 |
 | Mr. Bartley's Gourmet Burgers | 1246 Massachusetts Ave., Cambridge, MA 02138 | This Harvard Square institution serves classic American burgers with classic and creative toppings, often named for celebrities. | (617) 354-6559 | 42.3724646 | -71.11621 |
 | John's of 12th Street | 302 E 12th St, New York, NY 10003 | At 100+ years old, John's of 12th Street is a hidden Italian gem in NYC. | (212) 475-9531 | 40.7306197 | -73.9855369 |
-| Ben's Best Deli | 96-40 Queens Blvd, Rego Park, NY 11374 | This 65-year-old Jewish establishment is one of the last kosher delis left in New York City. | (718) 897-1700 | 40.7294305 | -73.8613159 |
+| Ben's Best Deli | 96-40 Queens Blvd, Rego Park, NY 11374 | This 65-year-old Jewish establishment is one of the last kosher delis left in New York City. | (718) 897-1700 | 40.7294074 | -73.8613206 |
 | Chop House Burgers | 2502 Little Rd, Arlington 76016 | At this burger joint Chef Kenny Mills is cooking up real deal burgers with a twist. | 682-213-2253 | 32.7040552 | -97.1793492 |
 | Jose's Real Cuban Food | 8799 Cortez Rd W, Bradenton, FL 34210 | One bite of Jose's Lechon Asado at Jose's Real Cuban Food and Guy knew it was the real deal. | (941) 795-4898 | 27.4625741 | -82.6112197 |
-| The Tin Kitchen Food Truck | 900 W Trade St, Charlotte, NC 28202 | This mobile food truck serves top-notch tacos and fusion dishes like buffalo-style cauliflower tacos. | 704-750-0477 | 35.2346454 | -80.8510418 |
+| The Tin Kitchen Food Truck | 900 W Trade St, Charlotte, NC 28202 | This mobile food truck serves top-notch tacos and fusion dishes like buffalo-style cauliflower tacos. | 704-750-0477 | 35.233976 | -80.851157 |
 | Pinky's Westside Grill | 1600 W Morehead St, Charlotte 28208 | A converted auto repair shop, this casual restaurant serves towering burgers, snappy dogs and not-too-healthy salads topped with popcorn chicken… | 704-332-0402 | 35.2291113 | -80.8674332 |
 | La Santisima Gourmet Taco Shop | 1919 N 16th St, Phoenix, AZ 85006 | Once you've chosen tacos, like Mexico City-style chicken tinga or spicy Yucatan pork shoulder, top it with fresh salsa from… | 602-254-6330 | 33.4691084 | -112.0473724 |
 | Moo Creamery | 4885 Truxtun Ave, Bakersfield, CA 93309 | Tucked into an industrial park near the railroad tracks, this ice cream shop and restaurant serves creative burgers — including… | 661-861-1130 | 35.3714137 | -119.0563537 |
@@ -407,7 +407,7 @@
 | Shorty’s Pizza & Smoked Meat | 1015 Tower Ave, Superior, WI 54880 | Shorty’s dishes are inspired by Montreal’s obsession with smoked meat, like the Meat Lover’s pizza topped with sausage, pepperoni and… | (715) 718-0889 | 46.7263561 | -92.1040093 |
 | From Scratch Restaurant | 3626 The Barnyard, Carmel, CA 93923 | From Scratch is what Guy calls “old school in hyperdrive.” They take classics and inject them with more flavors. | (831) 625-2448 | 36.5409874 | -121.9076276 |
 | Melt Eclectic Cafe | 4165 Hamilton Ave, Cincinnati, OH 45223 | Melt serves local flavors with healthy ingredients. | (513) 681-6358 | 39.1625064 | -84.5398459 |
-| Saus | 33 Union St, Boston 02108 | Saus translates as “sauce” in Dutch, and that’s exactly what this Dutch-Greek joint is all about – condiments. | (617) 248-8835 | 42.3611135 | -71.0568802 |
+| Saus | 33 Union St, Boston 02108 | Saus translates as “sauce” in Dutch, and that’s exactly what this Dutch-Greek joint is all about – condiments. | (617) 248-8835 | 42.3611464 | -71.0567876 |
 | Cafe Genevieve | 135 E Broadway, Jackson, WY 83001 | This renovated cabin space now houses a casual joint with an eclectic menu. | (307) 732-1910 | 43.4796751 | -110.7599785 |
 | Cafe Polonia | 611 Dorchester Ave, Boston, MA 02127 | Cafe Polonia is a real-deal Polish joint where everything is cooked the proper way. | (617) 269-0110 | 42.328815 | -71.0571215 |
 | Deep Ellum | 477 Cambridge St, Allston, MA 02134 | Deep Ellum is a go-to destination for high-quality bar food and drinks. | (617) 787-2337 | 42.353855 | -71.136946 |
@@ -430,8 +430,8 @@
 | The Liberty Elm Diner | 777 Elmwood Ave., Providence, RI 02907 | Not only does The Liberty Elm Diner succeed in serving dynamite clam chowder, but they also excel in griddling perfect… | (401) 467-0777 | 41.7917602 | -71.4225785 |
 | Early Bird Diner | 1644 Savannah Hwy., Charleston, SC 29407 | At this diner you can get breakfast for dinner or dinner for breakfast. | (843) 277-2353 | 32.7873237 | -80.0140148 |
 | The Cove | 606 W. Cypress St., San Antonio 78212 | Most people probably wouldn't expect to find amazing food at a restaurant connected to a car wash and a laundromat,… | (210) 227-2683 | 29.4402691 | -98.5007307 |
-| The Coffee Cup Cafe | 512 Nevada Way, Boulder City, NV 89005 | From peanut butter pancakes to huevos rancheros, this roadside diner makes dishes fresh to order under a "world famous" tagline. | 702-294-0517 | 35.9759323 | -114.8392751 |
-| The Blue Plate Diner | 2041 S 2100 E, Salt Lake City 84108 | The Blue Plate Diner prides itself on homemade food, a sentiment that is clearly evident in their popular corned beef… | 801-463-1151 | 40.7337862 | -111.8307908 |
+| The Coffee Cup Cafe | 512 Nevada Way, Boulder City, NV 89005 | From peanut butter pancakes to huevos rancheros, this roadside diner makes dishes fresh to order under a "world famous" tagline. | 702-294-0517 | 35.977419 | -114.8379968 |
+| The Blue Plate Diner | 2041 S 2100 E, Salt Lake City 84108 | The Blue Plate Diner prides itself on homemade food, a sentiment that is clearly evident in their popular corned beef… | 801-463-1151 | 40.7342146 | -111.8307857 |
 | Stoney Creek Inn | 8238 Fort Smallwood Rd., Greenland Beach, MD 21226 | You can't be afraid to get your hands a little messy at this crab shack. | 410-439-3123 | 39.1656329 | -76.5285828 |
 | Starlite Lounge | 364 Freeport Road, Blawnox 15238 | Pierogi and stuffed pepper soup might not be the first dishes that come to mind when someone thinks of a… | (412) 828-9842 | 40.4940225 | -79.8602593 |
 | South Side Soda Shop | 1122 S Main St, Goshen, IN 46526 | This old-school spot serves up American classics like a beef and bean chili laden with plenty of spices that Guy… | 574-534-3790 | 41.5717437 | -85.8297805 |
@@ -445,7 +445,7 @@
 | Manci's Antique Club | 1715 Main St, Daphne, AL 36526 | Anyone looking to try a po' boy in Daphne, Alabama, should check out Manci's Antique Club, a storied institution that… | (251) 626-9917 | 30.6031804 | -87.902832 |
 | Mama's Food Shop | 200 E. Third St., New York, NY 10009 | On Food Network's Diners, Drive-Ins and Dives, Guy Fieri visits Mama's Food Shop in New York, NY, for homemade fried… | (212) 777-4425 | 41.3542715 | -74.1635205 |
 | Los Tapatios | 354 N White Rd, San Jose, CA 95127 | Host of Food Network's Diners, Drive-Ins and Dives, Guy Fieri, discovers some homemade authentic Mexican food at Los Tapatios, in… | 408-729-6199 | 37.3759865 | -121.835651 |
-| Moochie's Meatballs and More | 232 E 800 South, Salt Lake City, UT 84111 | When Philadelphia native Joanna Rendi moved to Salt Lake City, she wasn't happy with the quality of the sandwich shops… | 801-596-1350 | 40.7519522 | -111.8850638 |
+| Moochie's Meatballs and More | 232 E 800 South, Salt Lake City, UT 84111 | When Philadelphia native Joanna Rendi moved to Salt Lake City, she wasn't happy with the quality of the sandwich shops… | 801-596-1350 | 40.7519402 | -111.8920428 |
 | Iron Barley | 3367 High Ridge Blvd, High Ridge, MO 63049 | Iron Barley may be a tavern but Guy discovered "spectacular" food within. | 636-671-9911 | 38.4503254 | -90.5415457 |
 | Hob Nob Hill | 2271 First Ave., San Diego, CA 92101 | San Diegoans know Hob Nob Hill as a historical landmark. | (619) 239-8176 | 32.7109299 | -117.1637733 |
 | Hackney's | 1241 Harms Rd, Glenview, IL 60025 | This spot has been slinging burgers since original owner Helen "Bebe" Hackney served them with brews on her back porch… | 847-724-5577 | 42.077822 | -87.7703375 |
@@ -462,22 +462,22 @@
 | Brewburger's | 4629 South 108th Street, Omaha, NE 68127 | After moving to Omaha, Neb., Canadian native Yves Menard decided to bring the smoked brisket sandwich there, which Guy thought… | (402) 614-7644 | 41.213228 | -96.0813659 |
 | Bert's Burger Bowl | 235 N Guadalupe St., Santa Fe, NM 87501 | Guy Fieri tracks down fast food done right at Bert's Burger Bowl in Santa Fe, NM, home of the Green… | (505) 982-0215 | 35.6906407 | -105.9444665 |
 | Baby Blues BBQ | 444 Lincoln Blvd., Venice 90291 | Southern California maybe isn't the first place someone would think of when looking for great barbecue, but Baby Blues BBQ… | (310) 396-7675 | 34.0003882 | -118.4653552 |
-| Alcenia's | 317 N Main St., Memphis, TN 38103 | If you're from Memphis, you may have already heard of Alcenia's famous "Cha Cha" cabbage relish or the sweet potato… | (901) 523-0200 | 35.1536248 | -90.049607 |
+| Alcenia's | 317 N Main St., Memphis, TN 38103 | If you're from Memphis, you may have already heard of Alcenia's famous "Cha Cha" cabbage relish or the sweet potato… | (901) 523-0200 | 35.153895 | -90.0492323 |
 | The Thumb | 9393 East Bell Rd., Scottsdale 85260 | The Thumb is a gas station, car wash, craft shop, wine cellar and competition-style barbecue restaurant, all in one. | (480) 513-8186 | 33.6392152 | -111.8792814 |
 | Paradise Valley Burger Co. | 15689 North Hayden Rd., Scottsdale, AZ 85260 | When it comes to burgers, this Phoenix institution knows no bounds. | (602) 535-4930 | 33.6274192 | -111.8952798 |
 | Andreoli Italian Grocer | 8880 E Via Linda, Scottsdale 85258 | Andreoli’s is the kind of restaurant that makes Italians a little less homesick. | 480-614-1980 | 33.5693707 | -111.8902841 |
 | Kelsey and Kim’s Southern Café | 201 Melrose Ave., Atlantic City, NJ 08401 | Southern-raised chef Kelsey Jackson serves the food he grew up on at Kelsey and Kim's in South Jersey. | (609) 350-6800 | 39.3724 | -74.415886 |
 | Tacopocalypse | 407 East 5th St., Des Moines 50309 | With a chef who used to be a metal musician, Tacopocalypse naturally specializes in the realm where creative meets outrageous. | (515) 556-0571 | 41.5900587 | -93.6111227 |
 | Flying Mango | 4345 Hickman Rd., Des Moines 50310 | The Flying Mango’s unique name is a hint at the bold, original food it serves. | 515-255-4111 | 41.6151724 | -93.6776981 |
-| The Alley Restaurant | 99-115 Aiea Heights Dr, Aiea 96701 | It may be located within a bowling alley, but The Alley Restaurant is cooking up some of the best dishes… | (808) 488-6854 | 21.3784317 | -157.9301126 |
+| The Alley Restaurant | 99-115 Aiea Heights Dr, Aiea 96701 | It may be located within a bowling alley, but The Alley Restaurant is cooking up some of the best dishes… | (808) 488-6854 | 21.3790651 | -157.9295847 |
 | Loulou’s Griddle in the Middle | Municipal Wharf No. 2, Monterey, CA 93940 | Loulou’s abalone slider is the perfect dish for a self-proclaimed “abalone junkie” like Guy. | (831) 372-0568 | 36.6013093 | -121.8898779 |
 | Fat Sal's | 972 Gayley Ave, Los Angeles, CA 90024 | Fat Sal’s is everything health-conscious LA is not and deliciously so. | (855) 682-4373 | 34.0623543 | -118.4480307 |
-| Mike’s Huli Huli Chicken | 47-525 Kamehameha Hwy, Kaneohe, HI 96744 | Mike’s Huli Huli Chicken slow-roasts their chicken on the wood-fire rotisserie, which results in juicy meat that is also as… | (808) 277-6720 | 21.3997125 | -157.7990578 |
+| Mike’s Huli Huli Chicken | 47-525 Kamehameha Hwy, Kaneohe, HI 96744 | Mike’s Huli Huli Chicken slow-roasts their chicken on the wood-fire rotisserie, which results in juicy meat that is also as… | (808) 277-6720 | 21.3887407 | -157.7943992 |
 | The Federal Miami | 5132 Biscayne Blvd, Miami, FL 33137 | The Federal is a modern American tavern that offers comforting, scrumptious dishes. | (305) 758-9559 | 25.8246539 | -80.1869836 |
 | Elena’s | 94-866 Moloalo St, Waipahu, HI 96797 | Elena’s is serving up Filipino cuisine with a Hawaiian twist. | 808-676-8005 | 21.384827 | -158.0023959 |
 | Boots & Kimo’s Homestyle Kitchen | 151 Hekili St, Kailua, HI 96734 | Boots & Kimo’s offers a menu full of authentic Hawaiian food. | (808) 263-7929 | 21.392169 | -157.7424864 |
 | Silver Star Cafe | 1825 Three Kings Dr, Park City, UT 84060 | With its eclectic menu and prime spot by the Silver Star chairlift, this cafe is a great place to eat… | (435) 655-3456 | 40.6588022 | -111.5158642 |
-| Sammy's Bistro | 1890 Bonanza Dr, Park City 84060 | Guy stops by Sammy’s Bistro to try the gourmet items that can be had at affordable prices. | 435-214-7570 | 40.6614527 | -111.4995661 |
+| Sammy's Bistro | 1890 Bonanza Dr, Park City 84060 | Guy stops by Sammy’s Bistro to try the gourmet items that can be had at affordable prices. | 435-214-7570 | 40.6612591 | -111.500325 |
 | Blue Collar | 6730 Biscayne Blvd, Miami, FL 33138 | Guy heads to this spot to indulge in The Big Ragout Sandwich, a hearty meal featuring five kinds of meats… | 305-756-0366 | 25.8378621 | -80.1847611 |
 | Maxwell’s East Coast Eatery | 357 S Main St, Salt Lake City, UT 84111 | The Chicken Parmigiano is one of Maxwell’s most-popular items; it features chicken that is lightly breaded and sauteed, topped with… | (801) 328-0304 | 40.7508788 | -111.8910856 |
 | D.J.’s Clam Shack | 629 Duval St, Key West, FL 33040 | Key West is known for fresh seafood, and D.J.’s Clam Shack serves some of the freshest around. | (305) 294-0102 | 24.5540096 | -81.8012645 |
@@ -486,12 +486,12 @@
 | Whisk | 7382 SW 56th Ave, Miami, FL 33143 | Siblings Brendan and Kristin Connor put their own twist on traditional low-country dishes at Whisk. | (786) 268-8350 | 25.7029033 | -80.2846715 |
 | Ducks Eatery | 351 E 12th St, New York, NY 10003 | Siblings Will and Julie Horowitz are making culinary waves in NYC’s East Village with their restaurant, Ducks Eatery. | (212) 432-3825 | 40.7302407 | -73.9838074 |
 | Sakaya Kitchen | 3401 N Miami Ave, Miami 33127 | Korean fusion eatery Sakaya has many in Miami raving about its Cracklin’ duck sandwich. | (305) 576-8096 | 25.8100708 | -80.1949206 |
-| Bun-ker Vietnamese | 99 Scott Ave, Brooklyn, NY 11237 | Bun-Ker Vietnamese may seem like it is in the middle of nowhere, but the trip is worth it for Vietnamese… | 718-386-4282 | 40.7104957 | -73.9232382 |
+| Bun-ker Vietnamese | 99 Scott Ave, Brooklyn, NY 11237 | Bun-Ker Vietnamese may seem like it is in the middle of nowhere, but the trip is worth it for Vietnamese… | 718-386-4282 | 40.7105327 | -73.9231639 |
 | Paul’s Live from New York | 604 F St, Eureka 95501 | Paul’s Live is a New York pizza joint with one little twist — it’s in California. | (707) 442-5800 | 40.800678 | -124.165952 |
 | Loleta Cheese Factory | 252 Loleta Dr, Loleta, CA 95551 | When a student of former high school teacher Bob Laffranchi asked him how cheese is made, Bob decided to find… | (707) 733-5470 | 40.6410562 | -124.2237104 |
 | Ferndale Meat Co. | 376 Main St, Ferndale, CA 95536 | Ferndale Meat Co. | (707) 786-4501 | 40.5761565 | -124.2639939 |
 | Hotel Ivanhoe | 315 Main St, Ferndale, CA 95536 | Hotel Ivanhoe is where Guy got his first kitchen job. | (707) 786-9000 | 40.5758945 | -124.264942 |
-| Aristo’s Greek Cuisine | 224 S 1300 E, Salt Lake City, UT 84102 | Guy swings by Aristo’s for old-school Greek cuisine with a modern twist. | (801) 581-0888 | 40.7545136 | -111.8538404 |
+| Aristo’s Greek Cuisine | 224 S 1300 E, Salt Lake City, UT 84102 | Guy swings by Aristo’s for old-school Greek cuisine with a modern twist. | (801) 581-0888 | 40.7599886 | -111.853965 |
 | Phat Bites | 2730 b. Lebanon Pike, Donelson 37214 | Guy loves Phat Bites’ Long Life Salad served on a bed of kale with black-eyed peas, Christmas lima beans, black… | (615) 871-4055 | 36.1693347 | -86.6801577 |
 | PotPie | 904 Westport Rd, Kansas City, MO 64111 | At PotPie, a menu of simple, refined dishes draws the crowds. | (816) 561-2702 | 39.0507757 | -94.5970308 |
 | 55 South | 403 Main St, Franklin 37064 | 55 South serves up traditional Southern dishes like the Nashville Hot Chicken and the Chicken and Sausage Jambalaya. | (615) 538-6001 | 35.9244186 | -86.8703802 |
@@ -506,11 +506,11 @@
 | Jambo Cafe | 2010 Cerrillos Rd., Santa Fe 87505 | At Jambo Cafe, Chef Ahmed Obo brings African-Caribbean Cuisine to the Sante Fe locals. | 505-473-1269 | 35.6628825 | -105.9764444 |
 | Torino's at Home | 7600 Jefferson St NE, Albuquerque, NM | Owners Daniela and Maxime Bouneou modeled Torinos' @ Home after Italy's great trattorias. | (505) 797-4491 | 35.1657311 | -106.591163 |
 | A Taste of Home Cooking | 12365 58th Ave., Arvada, CO 80002 | With "home cooking" in the name, it's no surprise that everything here, from the honey mustard sauce to the sauerkraut,… | (303) 423-2737 | 39.8018936 | -105.1374604 |
-| The Front Porch | 65A 29th St., San Francisco, CA | Be it the rocking chairs out front or the food, The Front Porch is the funky little neighborhood joint with… | (415) 695-7800 | 37.7440269 | -122.4214075 |
+| The Front Porch | 65A 29th St., San Francisco, CA | Be it the rocking chairs out front or the food, The Front Porch is the funky little neighborhood joint with… | (415) 695-7800 | 37.7435703 | -122.4288981 |
 | The Country Cat | 7937 SE Stark, Portland, OR 97215 | The Country Cat enticed Iron Chef winner Brad Farmerie with its home cooking and warm hospitality, but the cast-iron skillet… | (503) 408-1414 | 45.5192833 | -122.5816834 |
 | Refuge | 963 Laurel St, San Carlos, CA | Refuge's pastrami sandwich knows no bounds, and for this upscale Bay Area pub, it rivals East Coast legends, as in… | (650) 598-9813 | 37.5018888 | -122.255313 |
 | The Industrial Cafe and Saloon | 2572 NW Vaughn St, Portland, OR 97210 | Ironwork furnishings round out The Industrial Cafe and Saloon's menu of stick-to-your-ribs comfort food. | (503) 227-7002 | 45.5366621 | -122.7043089 |
-| Show Dogs Fine Sausages | 1020 Market St, San Francisco, CA 94102 | Show Dogs has scratch-made written all over its rock-out menu. | (415) 558-9560 | 37.7821397 | -122.4107732 |
+| Show Dogs Fine Sausages | 1020 Market St, San Francisco, CA 94102 | Show Dogs has scratch-made written all over its rock-out menu. | (415) 558-9560 | 37.7820274 | -122.4110428 |
 | The Wild Plum Cafe & Bakery | 731 Munras Ave, Monterey, CA 93940 | The Wild Plum is dedicated to organic and sustainable cuisine. | (831) 646-3109 | 36.5948085 | -121.8931094 |
 | Tavern on 2 | 5110 E 2nd St, Long Beach, CA 90803 | Tavern on 2 features a gastropub menu that draws influences from Asian and Mexican cuisine. | (562) 856-4000 | 33.7605665 | -118.1357755 |
 | Nora’s Fish Creek Inn | 5600 W Hwy 22, Wilson, WY 83014 | Nora’s Fish Creek Inn is the place locals flock to for breakfast, lunch and dinner. | 307-733-8288 | 43.4978341 | -110.8745722 |
@@ -545,7 +545,7 @@
 | Tee Off Bar & Grill | 3129 Clement St, San Francisco, CA 94121 | Guy calls Tee Off Bar & Grill a "five-star dive bar." The husband-and-wife-owned spot is known for high-end, homemade dishes… | (415) 752-5439 | 37.781439 | -122.4929466 |
 | Tecolote Cafe | 1616 St Michaels Dr, Santa Fe, NM 87505 | Tecolote Cafe takes chiles seriously and guarantees theirs are straight from Santa Fe, N.M. | (505) 988-1362 | 35.6589381 | -105.9746472 |
 | Taste of Peru | 6545 N Clark St, Chicago, IL 60626 | Peruvians and Chicagoans both head to Taste of Peru in Chicago for authentic chicken tamales, Anticuchos (beef heart kebabs) and… | (773) 381-4540 | 42.0013827 | -87.6713413 |
-| Taste of Europe | 1901 W. Pioneer Parkway, Arlington, TX 76013 | Where can you "eat while you shop and shop while you eat"? | (817) 275-5530 | 32.7180708 | -97.1730469 |
+| Taste of Europe | 1901 W. Pioneer Parkway, Arlington, TX 76013 | Where can you "eat while you shop and shop while you eat"? | (817) 275-5530 | 32.7233425 | -97.1873356 |
 | Swagger Fine Spirits & Food | 8431 Wornall Rd, Kansas City, MO 64114 | In the case of Derek Boone and Dustin Craighead, ignorance was bliss when they first chose to open Swagger Fine… | (816) 361-4388 | 38.9755708 | -94.5949077 |
 | Surrey's Cafe & Juice Bar | 1418 Magazine St, New Orleans, LA 70130 | Guy made his first bagel thanks to Surrey's Cafe & Juice Bar. | (504) 524-3828 | 29.935766 | -90.0718274 |
 | Southern Soul Barbeque | 2020 Demere Rd, St Simons Island, GA 31522 | At Southern Soul Barbeque, they like their ribs sweet — and they mean sweet. | 912-638-7685 | 31.15849 | -81.3874104 |
@@ -558,7 +558,7 @@
 | Rocco's Cafe | 1131 Folsom St, San Francisco, CA 94103 | At Rocco's, the Italian food is made from scratch, following Chef Don Dial's grandpa's recipes. | 415-554-0522 | 37.7760392 | -122.4085285 |
 | Rick & Ann's Restaurant | 2922 Domingo Ave, Berkeley, CA 94705 | At this eatery, the special is comfort food with flair. | (510) 649-8538 | 37.8586033 | -122.2440933 |
 | Red Lion Pub | 2316 S Shepherd Dr, Houston, TX 77019 | Red Lion owner Craig Mallinson says true English pubs should serve the long-ignored U.K. | (713) 529-8390 | 29.7456497 | -95.4110135 |
-| Red Iguana | 736 W North Temple, Salt Lake City 84116 | The Cardenas family has been serving Mexican food 365 days a year since 1965. | (801) 322-1489 | 40.7748229 | -111.8945586 |
+| Red Iguana | 736 W North Temple, Salt Lake City 84116 | The Cardenas family has been serving Mexican food 365 days a year since 1965. | (801) 322-1489 | 40.771424 | -111.9292264 |
 | Q Restaurant and Wine Bar | 225 Clement Street, San Francisco, CA 94118 | A neighborhood diner in the Richmond district of San Francisco, Q Restaurant specializes in "funky, American comfort." Try the Pulled… | 415-752-2298 | 37.7828365 | -122.4616947 |
 | Psycho Suzie's Motor Lounge | 1900 Marshall St NE, Minneapolis, MN 55418 | As the name suggests, Psycho Suzi's Motor Lounge doesn't play by the rules — and that wasn't a problem for… | 612-788-9069 | 45.0075026 | -93.2723814 |
 | Polka Restaurant & Catering | 4112 Verdugo Rd, Los Angeles, CA 90065 | Chef Katherine Dabrowski grew up helping her mom in the kitchen and now she is sharing her Polish dishes at… | 323-255-7887 | 34.125374 | -118.231685 |
@@ -586,7 +586,7 @@
 | Keegan's Seafood Grille | 1519 Gulf Blvd, Indian Rocks Beach, FL 33785 | Host of Food Network's Diners, Drive-Ins and Dives, Guy Fieri, stops by Keegan's Seafood Grille, in Indian Rocks Beach, FL,… | (727) 596-2477 | 27.9000233 | -82.8479784 |
 | Johnny Garlic's | 10505 Fairway Dr., Roseville 95678 | Only at Guy's restaurant can you get a little Italian, Mexican, Cajun and Asian. | 916-789-2000 | 38.7924594 | -121.290952 |
 | Joey K's Restaurant & Bar | 3001 Magazine Street, New Orleans, LA 70115 | A family-owned eatery located in a charming century-old building, Joey K's is the place to go for "a real taste… | 504-891-0997 | 29.9250643 | -90.0848267 |
-| Joe's Cable Car | 4320 Mission St., San Francisco, CA 94112 | A burger to us is fresh ground steak to Joe. | (415) 334-6699 | 37.7159152 | -122.4414653 |
+| Joe's Cable Car | 4320 Mission St., San Francisco, CA 94112 | A burger to us is fresh ground steak to Joe. | (415) 334-6699 | 37.7316278 | -122.4284519 |
 | Joe Tess Place | 5424 S 24th St, Omaha, NE 68102 | Since 1967, Joe Tess has been home to the famous fried carp sandwich. | 402-733-4638 | 41.2034571 | -95.9471702 |
 | Jethro’s Fine Grub | 3420 Dunbar St, Vancouver, BC V6S 2C2 | The husband-wife duo that runs Jethro’s Fine Grub takes comfort food to a whole new level. | +1 604-569-3441 | 49.2562838 | -123.1849246 |
 | Jax at the Tracks | 10144 W River St, Truckee, CA 96160 | JAX at the Tracks may be an old-school diner, but all the dishes have an upscale, gourmet twist. | (530) 550-7450 | 39.3266503 | -120.1864379 |
@@ -601,7 +601,7 @@
 | Harold's Restaurant | 602 N. Limestone St., Gaffney, SC 29340 | On Food Network's Diners, Drive-Ins and Dives, Guy Fieri makes the journey out to Harold's in Gaffney, SC, for some… | (864) 489-9153 | 35.0765014 | -81.6459937 |
 | Happy Gillis Cafe & Hangout | 549 Gillis St, Kansas City, MO 64106 | Not your typical run-of-the-mill soup and sandwich shop, Happy Gillis Cafe is owned by a husband and wife duo known… | (816) 471-3663 | 39.1089785 | -94.5702851 |
 | Hank's Creekside Restaurant | 2800 4th St., Santa Rosa, CA 95405 | In Guy's hometown of Santa Rosa, Calif., his favorite place to get a meal on the weekend has always been… | (707) 575-8839 | 38.449297 | -122.6889371 |
-| Gumbo Shack | 212 1/2 Fairhope Ave., Fairhope, AL 36532 | When you're hungry for serious Creole food, head on down to Gumbo Shack. | 251-928-4100 | 30.5236083 | -87.8476991 |
+| Gumbo Shack | 212 1/2 Fairhope Ave., Fairhope, AL 36532 | When you're hungry for serious Creole food, head on down to Gumbo Shack. | 251-928-4100 | 30.523614 | -87.8524855 |
 | Grubstake Diner | 1525 Pine St., San Francisco, CA 94109 | Guy Fieri, host of Food Network's Diners, Drive-Ins and Dives, visits the Grubstake Diner, an old-time American restaurant in downtown… | (415) 673-8268 | 37.7893751 | -122.4208558 |
 | Greek Corner Restaurant | 2366 Massachusetts Ave, Cambridge, MA 02140 | At this authentic eatery, you're getting real Greek food made by two brothers who once left Greece to go to… | (617) 661-5655 | 42.3964156 | -71.1294002 |
 | Gott's Roadside Tray Gourmet (formerly Taylor's Automatic Refresher) | 933 Main Street, St. Helena, CA 94574 | Gott's Roadside Tray Gourmet won a James Beard Award for Best American Classic, so it's no surprise this Napa Valley… | (707) 963-3486 | 38.5019261 | -122.4654215 |
@@ -641,7 +641,7 @@
 | Byways Cafe | 1212 NW Glisan St., Portland, OR 97209 | Host of Food Network's Diners, Drive-Ins and Dives, Guy Fieri, uncovers some retro cuisine at the Byways Cafe, a neighborhood… | (503) 221-0011 | 45.5263949 | -122.6836295 |
 | Burger Me | 10418 Donner Pass Rd., Truckee, CA 96161 | Guy Fieri, host of Food Network's Diners, Drive-Ins and Dives, grabs a bite to eat at Burger Me in Truckee,… | (530) 587-8852 | 39.3256776 | -120.1905053 |
 | Burger Bar | 5291 S 1900 W, Roy 84067 | Guy says the Burger Bar in Roy, Utah, has been "doing it right" for 52 years. | 801-825-8961 | 41.1640539 | -112.0260463 |
-| Bubba's Fine Diner | 566 San Anselmo Ave, San Anselmo 94960 | At Bubba's Diner, they believe that "great ingredients turn out really good quality food." The Ahi Tuna Pot Stickers with… | (415) 459-6862 | 37.983003 | -122.5770003 |
+| Bubba's Fine Diner | 566 San Anselmo Ave, San Anselmo 94960 | At Bubba's Diner, they believe that "great ingredients turn out really good quality food." The Ahi Tuna Pot Stickers with… | (415) 459-6862 | 37.977699 | -122.5689017 |
 | Brownstone Diner & Pancake Factory | 426 Jersey Ave., Jersey City, NJ 07302 | On Triple D, Guy stops by The Brownstone Diner for a big bite of breakfast. | (201) 433-0471 | 40.7167088 | -74.0485621 |
 | Brint's Diner - UNDER NEW OWNERSHIP | 4834 E. Lincoln Street, Wichita, KS 67216 | Guy Fieri visits Brint's Diner in Wichita, KS, in search of the perfect American breakfast on Food Network's Diners, Drive-Ins… | (316) 684-0290 | 37.6720073 | -97.2800434 |
 | Blueplate Lunch Counter & Soda Fountain | 308 SW Washington St., Portland, OR 97204 | Guy's visit to downtown Portland led him to The Blueplate Lunch Counter, where Chef Jeff Reiter excels in classic American… | (503) 295-2583 | 45.5195628 | -122.6752246 |
@@ -700,8 +700,8 @@
 | Bette's Oceanview Diner | 1807 4th St, Berkeley, CA 94710 | Ever since Bette Kroening opened her Berkeley, Calif., diner, she's been dishing out home-style favorites to adoring local fans. | 510-644-3230 | 37.869996 | -122.3004421 |
 | Blackthorn Restaurant & Pub | 2134 Seneca St, Buffalo, NY 14210 | Guy hits the Blackthorn Restaurant and Pub in Buffalo, NY, a local Irish watering hole making the home town favorite,… | (716) 825-9327 | 42.8543957 | -78.8082044 |
 | 900 Grayson Restaurant | 900 Grayson St, Berkeley, CA 94710 | Guy may have visited 900 Grayson for his Triple D Goes Tailgating special, but that didn't mean 900 Grayson was… | (510) 704-9900 | 37.8551744 | -122.2922962 |
-| Bob's Taco Station | 1901 Avenue H, Rosenberg, TX 77471 | Join host, Guy Fieri, of Food Network's Diners, Drive-Ins and Dives, at Bob's Taco Station in Rosenberg, TX, a family-run… | (281) 232-8555 | 29.558337 | -95.807605 |
-| Sterle's Slovenian Country House | 1401 E 55th St, Cleveland, OH 44103 | Host of Food Network's Diners, Drive-Ins and Dives, Guy Fieri, gets served at Sterle's Slovenian Country House in Cleveland, OH,… | (216) 881-4181 | 41.520764 | -81.651821 |
+| Bob's Taco Station | 1901 Avenue H, Rosenberg, TX 77471 | If you're looking for a little spice or a little ice, Bob's Taco Station has got you covered. | (281) 232-8555 | 29.558337 | -95.807605 |
+| Sterle's Slovenian Country House | 1401 E 55th St, Cleveland, OH 44103 | Sterle's Country House has it all -- polka dancing, a friendly atmosphere and a wiener schnitzel Guy had to check… | (216) 881-4181 | 41.520764 | -81.651821 |
 | Parasol's Bar & Restaurant | 2533 Constance St, New Orleans, LA 70130 | Every dish at Parasol's Bar & Restaurant is made with tender loving care. | 504-302-1543 | 29.9264226 | -90.0801554 |
 | Louie Mueller's Barbecue | 206 W. Second St., Taylor 76574 | Third-generation pitmaster Wayne Mueller starts lighting the fires and loading the meats as early as 3 a.m. | (512) 352-6206 | 30.1047343 | -83.5980136 |
 | Sophia's Place | 6313 4th St NW, Albuquerque 87107 | Regulars describe the fare at Sophia's Place as "eclectic food with a New Mexican twist." But Guy called Chef Dennis… | (505) 345-3935 | 35.1494813 | -106.6394563 |
@@ -738,7 +738,7 @@
 | Cattlemen's Steakhouse | 1309 S Agnew, Oklahoma City, OK 73108 | You know they're seriously cranking it out when every steak goes through a needling machine, guaranteeing it'll be tender. | (405) 236-0416 | 35.4523191 | -97.5549911 |
 | Sam LaGrassa's | 44 Province St, Boston, MA 02108 | Locals claim they're serving the world's best sandwiches here, and they may not be lying. | (617) 357-6861 | 42.3567935 | -71.0600308 |
 | Mom's Tamales | 3328 Pasadena Ave., Los Angeles, CA 90031 | For delicious homemade tamales, drop by Mom's Tamales and sample one of eight options, all steamed and using scratch-made batter. | 323-226-9383 | 34.0837877 | -118.2134435 |
-| Pam's Kitchen | 1715 N 45th St, Seattle 98103 | Guy says "they're knocking out the real-deal food from Trinidad" at Pam's Kitchen with dishes like Spicy Jerk Chicken and… | 206-696-7010 | 47.6612833 | -122.3366586 |
+| Pam's Kitchen | 1715 N 45th St, Seattle 98103 | Guy says "they're knocking out the real-deal food from Trinidad" at Pam's Kitchen with dishes like Spicy Jerk Chicken and… | 206-696-7010 | 47.6612777 | -122.3366054 |
 | Cempazuchi | 1205 E Brady St, Milwaukee, WI 53202 | If you're skeptical on how authentic Mexican food could be in Milwaukee, you'll change your mind after trying the mole… | (414) 291-5233 | 43.0528115 | -87.8966122 |
 | Lankford Grocery and Market | 88 Dennis St, Houston, TX 77006 | If you're interested in "licking the volcano out of Flavortown," Guy recommends ordering Lankford's Firehouse Burger basted with cayenne butter… | (713) 522-9555 | 29.7498701 | -95.383429 |
 | Landmark Restaurant Diner | 4429 Central Ave., Charlotte, NC 28205 | Landmark Restaurant Diner may be a Greek family restaurant, but the menu spans the globe, from the American Turkey Tom-Tom… | (704) 532-1153 | 35.2139676 | -80.7694516 |
@@ -796,7 +796,7 @@
 | Supino Pizzeria | 2457 Russell St, Detroit, MI 48207 | A trip to Italy inspired Chef Dave Mancini to open his own pizzeria. | (313) 567-7879 | 42.3453951 | -83.0400382 |
 | Citrus Breakfast & Lunch | 2265 W Great Neck Rd, Virginia Beach, VA 23451 | Dine here if you're looking for some breakfast or lunch with a coastal twist. | (757) 227-3333 | 36.910467 | -76.071146 |
 | Big & Little's | 860 N Orleans St, Chicago, IL 60610 | Two chefs used their life savings to start this gourmet fast-food restaurant. | (312) 943-0000 | 41.8983651 | -87.6374626 |
-| Beach Pub | 1001 Laskin Rd, Virginia Beach, VA 23451 | The seafood at the Beach Pub is always fresh and always delicious. | (757) 422-8817 | 36.8592956 | -75.9777287 |
+| Beach Pub | 1001 Laskin Rd, Virginia Beach, VA 23451 | The seafood at the Beach Pub is always fresh and always delicious. | (757) 422-8817 | 36.8518238 | -76.0094272 |
 | Taco Bus | 913 E Hillsborough Ave, Tampa, FL 33603 | The Taco Bus operates out of a 35-foot school bus and is always open. | (813) 232-5889 | 27.9959866 | -82.450911 |
 | Magnolia Pancake Haus | 606 Embassy Oaks, San Antonio, TX 78216 | Chef Robert Fleming's light and airy pancakes are "raising the bar on breakfast." The crispy corned beef hash impressed Guy… | (210) 496-0828 | 29.5644377 | -98.4878921 |
 | El Bohio | 1127 Harry Wurzbach, San Antonio 78234 | At this Puerto Rican eatery, Chef Andre Cerbones is cooking up all the classics. | (210) 822-8075 | 29.4697177 | -98.4384662 |
@@ -805,7 +805,7 @@
 | Tortilleria Nixtamal | 10405 47th Ave, Corona, NY 11368 | Thousands of pounds of masa and up to 10,000 tortillas a day come from Tortilleria Nixtamal. | (718) 699-2434 | 40.7457318 | -73.8592353 |
 | Taco Taco Cafe | 145 E Hildebrand Ave, San Antonio, TX 78212 | Owner Helen Velesiotis may be Greek, but she knows how to cook up some "real-deal" Mexican food. | (210) 822-9533 | 29.4657329 | -98.4776547 |
 | Chilam Balam | 3023 N Broadway St, Chicago, IL 60657 | Chilam Balam puts a "punk rock twist" on organic and farm-fresh Mexican tapas. | (773) 296-6901 | 41.9716054 | -87.6597317 |
-| Tampa Bay Brewing Company | 1600 E 8th Ave, Tampa, FL 33605 | With an on-site brewery and 12 house beers on tap, this family-owned spot proves that beer's not just for drinking. | (813) 247-1422 | 27.9614582 | -82.4416202 |
+| Tampa Bay Brewing Company | 1600 E 8th Ave, Tampa, FL 33605 | With an on-site brewery and 12 house beers on tap, this family-owned spot proves that beer's not just for drinking. | (813) 247-1422 | 27.960499 | -82.441588 |
 | Nana | 3267 S Halsted St, Chicago, IL 60608 | Guy's visit to Nana's was a lesson in sustainability. | (312) 929-2486 | 41.8345458 | -87.6458417 |
 | The Sink | 1165 13th St, Boulder, CO 80302 | Located in a former frat house, The Sink is serving up quality scratch-made bites. | (303) 444-7465 | 40.0085162 | -105.2765935 |
 | Bang! | 3472 W 32nd Ave, Denver, CO 80211 | Bang! | 303-455-1117 | 39.7619546 | -105.0340159 |
@@ -829,11 +829,11 @@
 | Jimmy's Down the Street | 1613 E Sherman, Coeur d'Alene, ID 83814 | After a hard day at work, locals like to come here to enjoy a hearty home cooked meal. | (208)765-3868 | 47.6733154 | -116.7519321 |
 | Dad's Kitchen | 2968 Freeport Blvd, Sacramento, CA 95818 | The Dad's Burger is so popular that when the current owners bought the restaurant, they kept it on the menu. | (916) 447-3237 | 38.5508901 | -121.4891152 |
 | Corey's Catsup and Mustard | 623 Main St, Manchester 06040 | Owner Corey Wry knows how to make some dreamy burger combos. | (860) 432-7755 | 41.7738222 | -72.5212678 |
-| Joe Squared Pizza | 133 W North Ave, Baltimore, MD 21201 | The starter for the dough from this pizza shop is from an Italian island and is 200 years old. | (410) 545-0444 | 39.311167 | -76.6184534 |
+| Joe Squared Pizza | 133 W North Ave, Baltimore, MD 21201 | The starter for the dough from this pizza shop is from an Italian island and is 200 years old. | (410) 545-0444 | 39.3108965 | -76.618434 |
 | Moseberth's Fried Chicken | 1505 Airline Blvd, Portsmouth, VA 23707 | This 71-year-old family-run fried chicken dive is now teaching the fourth generation the secrets to its craft. | 757-393-1721 | 36.8266549 | -76.347554 |
 | Nye's Polonaise Room | 112 E Hennepin Ave, Minneapolis, MN 55414 | The polka music, Polish party atmosphere and great-tasting food make this establishment a local favorite. | (612) 379-2021 | 44.987135 | -93.2584332 |
 | R&R Taqueria | 7894 Washington Blvd, Elkridge, MD 21075 | Hidden behind a gas station is a small hole in the wall where Chef Rodrigo Albarran-Torres is using his mother's… | (410) 799-0001 | 39.1727025 | -76.7849234 |
-| The Glass Onion | 1219 Savannah Hwy, Charleston, SC 29407 | At this restaurant, 5-star Southern food inspired by local ingredients is being served at 1-star prices. | 843-225-1717 | 32.7870191 | -80.0142879 |
+| The Glass Onion | 1219 Savannah Hwy, Charleston, SC 29407 | At this restaurant, 5-star Southern food inspired by local ingredients is being served at 1-star prices. | 843-225-1717 | 32.7855663 | -80.0060059 |
 | Defonte's Sandwich Shop, Manhattan | 261 Third Ave, New York, NY 10010 | Since 1922, this multigenerational old-school Italian deli in Brooklyn has been a local staple. | 212-614-1500 | 40.9152482 | -73.8097813 |
 | Defonte's Sandwich Shop, Brooklyn | 379 Columbia St, Brooklyn, NY 11231 | Since 1922, this multigenerational old-school Italian deli in Brooklyn has been a local staple. | (718) 625 -8052 | 40.6789829 | -74.0054436 |
 | Fuel Cantina | 211 Rutledge Ave, Charleston, SC 29403 | Guy's trip to South Carolina was a "vacay" from Southern comfort food when he visited Fuel Cantina. | (843) 737-5959 | 32.7893298 | -79.9472109 |
@@ -847,7 +847,7 @@
 | Michigan Brewing Co. | 1093 Highview Dr, Webberville, MI 48892 | On Food Network's Diners, Drive-Ins and Dives, Kid Rock takes Guy Fieri on a thirst-quenching tour of Michigan Brewing Co. | (517) 521-3600 | 42.6591496 | -84.1882358 |
 | Clarkston Union Bar & Kitchen | 54 S Main St, Village of Clarkston, MI 48346 | Owner Curt Catallo has transformed an old church into a comfort food diner. | (248) 620-6100 | 42.7341643 | -83.4187885 |
 | Traffic Jam & Snug | 511 W Canfield St, Detroit, MI 48201 | Almost everything at this husband and wife-run restaurant is "so local, it comes from the same address." The hot-sauce jelly… | (313) 831-9470 | 42.3508505 | -83.0659655 |
-| Afrah | 314 E Main St, Richardson, TX 75081 | This Texas restaurant and pastry shop doesn't whip out the typical Southern fare, but instead a Mediterranean menu which has… | (972) 234-9898 | 32.9483174 | -96.7259101 |
+| Afrah | 314 E Main St, Richardson, TX 75081 | This Texas restaurant and pastry shop doesn't whip out the typical Southern fare, but instead a Mediterranean menu which has… | (972) 234-9898 | 32.9492675 | -96.731812 |
 | Gazala's Place | 709 9th Ave, New York, NY 10036 | Chef Gazala Halabi might work in a tiny New York kitchen. | (212) 245-0709 | 40.7627027 | -73.9899079 |
 | Noble Sandwich Co. | 12233 Ranch Rd 620 N #105, Austin 78750 | This spot takes its sandwiches seriously, as Guy saw firsthand. | 512-382-6248 | 30.4614582 | -97.8151755 |
 | Lola's - A Louisiana Kitchen | 241 W Charleston Blvd, Las Vegas, NV 89102 | Lola's, a New Orleans style restaurant, has brought the Big Easy to Sin City. | (702) 227-5652 | 36.1589836 | -115.1773509 |
@@ -881,7 +881,7 @@
 | Patti's Pierogis | 1019 S Main St, Fall River, MA 02724 | What is the Polish version of a ravioli called? | 508-679-4001 | 41.6908068 | -71.1660127 |
 | Italian Express Pizzeria | 336 Sumner St, East Boston 02128 | At this eatery the food is fresh, handmade and inspired by nonni. | 617-561-0038 | 42.3672897 | -71.035729 |
 | Cutty's | 284 Washington St, Brookline, MA 02445 | A husband-and-wife team could never find the perfect sandwich, so they started making their own and sharing them with the… | (617) 505-1844 | 42.3330279 | -71.1193507 |
-| Memphis Barbecue Co. | 709 Desoto Cove, Horn Lake, MS 38637 | Pit master Melissa Cookston is the only female to be a world BBQ champion. | (662) 536-3763 | 34.9668237 | -90.0010451 |
+| Memphis Barbecue Co. | 709 Desoto Cove, Horn Lake, MS 38637 | Pit master Melissa Cookston is the only female to be a world BBQ champion. | (662) 536-3763 | 34.9666336 | -90.0010616 |
 | Davis' Pub | 400 Chester Ave, Annapolis, MD 21403 | At this dive "there are no strangers, only people you haven't met yet." The chipotle habanero barbecue sandwich with coleslaw… | (410) 268-7432 | 38.9691734 | -76.4802888 |
 | 90 Miles Cuban Cafe | 2540 W Armitage Ave, Chicago, IL 60647 | Alberto Gonzalez may have left Cuba, but he brought his grandmother's recipes so he could continue to cook rich and… | (773) 227-2822 | 41.9176965 | -87.6918765 |
 | bopNgrill | 6604 N Sheridan Rd, Chicago, IL 60626 | At this food counter, Chef Will Song is cooking up some "righteous" all-American classics with a Korean spin. | (773) 654-3224 | 42.0028402 | -87.6613034 |
@@ -918,7 +918,7 @@
 | Prohibition | 504 E Colfax Ave, Denver, CO 80203 | Most bars in Denver have some kind of hamburger, but Prohibition offers a dish that's a little more unique and… | (303) 832-4840 | 39.7399003 | -104.9809436 |
 | Curry Corner | 1212 E Apache Blvd, Tempe, AZ 85281 | The Curry Corner in Tempe, Ariz., may look like a typical Pakistani restaurant at first, but it's home to some… | (480) 894-1276 | 33.4148605 | -111.9199805 |
 | Standard Tap | 901 N 2nd St, Philadelphia, PA 19123 | The menu at Standard Tap in Philadelphia is far from standard — for example, check out the grilled octopus served… | (212) 238-0630 | 39.964171 | -75.1405473 |
-| Percy Street Barbecue | 900 South St, Philadelphia, PA 19147 | Percy Street Barbecue has built up a reputation for having some of the best barbecue in Philadelphia, and Guy needed… | (215) 625-8510 | 39.9425823 | -75.1575045 |
+| Percy Street Barbecue | 900 South St, Philadelphia, PA 19147 | Percy Street BBQ has built up a reputation for having some of the best barbecue in Philadelphia, and Guy needed… | (215) 625-8510 | 39.9425823 | -75.1575045 |
 | Bludso's BBQ | 609 N La Brea Ave, Los Angeles, CA 90036 | This Compton location is closed, but you can still get Bludso's craveworthy 'cue at the Hollywood locale. | 323-931-2583 | 34.082092 | -118.3441444 |
 | Rosedale Diner | 1164 Yonge St, Toronto, ON M4W 2L9 | The Rosedale Diner in Toronto may look unassuming from the outside, but the menu is an eclectic mix of Middle-Eastern… | (416) 923-3122 | 43.6803471 | -79.391086 |
 | Barrio Cafe | 2814 N 16th St, Phoenix 85006 | At Barrio Cafe you will find some real-deal Mexican food. | 602-636-0240 | 33.47895 | -112.0479512 |
@@ -929,15 +929,11 @@
 | Atomic Cowboy | 3237 E Colfax Ave, Denver, CO 80206 | The Atomic Cowboy is home to both the Denver Biscuit Co. | (303) 377-7900 | 39.7403138 | -104.9490513 |
 | Highland Tavern | 3400 Navajo St, Denver, CO 80211 | Visit this neighborhood bar for some "outrageous" bites. | (303) 433-1990 | 39.7646777 | -105.0038993 |
 | BatterFish | Santa Monica | When Guy tasted the authentic fish and chips that Dublin-native Chef Jason Killalee was dishing out he said, “If you… | 424-235-6096 | 34.0194704 | -118.491227 |
-| Horse Thief BBQ | 324 S. Hill St, Los Angeles, CA 90013 | Guy said the bark is worth every bite at this barbeque joint in Los Angeles. | 213-625-0341 | 34.0512058 | -118.2493856 |
+| Mrs. Potato | 4550 S. Kirkman Rd, Orlando, FL 32811 | Potato lovers go now to Mrs. | 407-290-0991 | 28.5289393 | -81.4594055 |
+| Three's Bar and Grill | 1945 S Kihei Rd, Kihei, HI 96753 | Three friends run this fusion restaurant in Hawaii that serves up legit ramen and killer Asian beer can chicken. | 808-879-3133 | 20.7316411 | -156.4515252 |
+| Saigon Noodle and Grill | 101 N. Bumby Avenue, Orlando, FL 32803 | Guy brings fellow Food Network Star Justin Warner to Saigon Noodle Grill for phenomenal pho, shaking beef and other authentic… | 407-532-7373 | 28.544235 | -81.351798 |
+| Three's Bar and Grill | 1945 S Kihei Rd, Kihei, HI 96753 | Three friends run this fusion restaurant in Hawaii that serves up legit ramen and killer Asian beer can chicken. | 808-879-3133 | 20.7316411 | -156.4515252 |
+| Saigon Noodle and Grill | 101 N. Bumby Avenue, Orlando, FL 32803 | Guy brings fellow Food Network Star Justin Warner to Saigon Noodle Grill for phenomenal pho, shaking beef and other authentic… | 407-532-7373 | 28.544235 | -81.351798 |
 | The Meatball Stoppe | 7325 Lake Underhill Rd, Orlando 32822 | As the name suggests, meatballs are the inspiration behind this family-run Orlando restaurant. | 407-270-6505 | 28.5391224 | -81.2927793 |
 | Pendulum Fine Meats | 820 Shirley Ave, Norfolk, VA 23517 | Chef and Owner Dylan Wakefield is serving up sandwiches at Pendulum Fine Meats that transport Guy back to his childhood. | 757-962-6990 | 36.868379 | -76.2987402 |
-| Mrs. Potato | 4550 S. Kirkman Rd, Orlando, FL 32811 | Potato lovers go now to Mrs. | 407-290-0991 | 28.5289393 | -81.4594055 |
-| Three's Bar and Grill | 1945 S Kihei Rd, Kihei, HI 96753 | Three friends run this fusion restaurant in Hawaii that serves up legit ramen and killer Asian beer can chicken. | 808-879-3133 | 20.7316411 | -156.4515252 |
-| Saigon Noodle and Grill | 101 N. Bumby Avenue, Orlando, FL 32803 | Guy brings fellow Food Network Star Justin Warner to Saigon Noodle Grill for phenomenal pho, shaking beef and other authentic… | 407-532-7373 | 28.544235 | -81.351798 |
-| Irma's Original | 22 N Chenevert St, Houston, TX 77002 | This long-time Houston spot serves “real-deal Mexican food,” according to Guy, who tucked into the tamales and chiles rellenos made… | 713-588-9891 | 29.760198 | -95.3523118 |
 | Fleetwood's on Front St. | 744 Front St, Lahaina, HI 96761 | Mick Fleetwood of Fleetwood Mac serves up rock and roll next to his favorite recipes including a dish inspired by… | 808-669-6425 | 20.8736754 | -156.6783325 |
-| Saigon Noodle and Grill | 101 N. Bumby Avenue, Orlando, FL 32803 | Guy brings fellow Food Network Star Justin Warner to Saigon Noodle Grill for phenomenal pho, shaking beef and other authentic… | 407-532-7373 | 28.544235 | -81.351798 |
-| BatterFish | Santa Monica | When Guy tasted the authentic fish and chips that Dublin-native Chef Jason Killalee was dishing out he said, “If you… | 424-235-6096 | 34.0194704 | -118.491227 |
-| Mrs. Potato | 4550 S. Kirkman Rd, Orlando, FL 32811 | Potato lovers go now to Mrs. | 407-290-0991 | 28.5289393 | -81.4594055 |
-| Three's Bar and Grill | 1945 S Kihei Rd, Kihei, HI 96753 | Three friends run this fusion restaurant in Hawaii that serves up legit ramen and killer Asian beer can chicken. | 808-879-3133 | 20.7316411 | -156.4515252 |
